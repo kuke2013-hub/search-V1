@@ -1,0 +1,20 @@
+# Never commit local or customer secrets
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.pem
+*.key
+secrets.*
+# Never commit CRM/contact exports or database files
+private/
+exports/
+data/private/
+*.sqlite
+*.sqlite3
+*.db
+# Local build and dependency outputs
+node_modules/
+.wrangler/
+dist/
+.DS_Store
