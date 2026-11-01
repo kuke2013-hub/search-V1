@@ -1,0 +1,14 @@
+# Copy to wrangler.toml only after creating your own D1 database.
+# Do not deploy a data API without Cloudflare Access or equivalent authentication.
+name = "search-v1"
+main = "src/worker.js"
+compatibility_date = "2026-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "search-v1"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+
+# A schedule can be enabled after source permissions and limits are reviewed.
+# [triggers]
+# crons = ["0 6 * * *"]
