@@ -33,7 +33,18 @@ test("nonsensical user/AI ratings are rejected", () => {
   assert.equal(scoreOpportunity({...sample, ratings:{...sample.ratings, timing:99}}).rankable, false);
 });
 test("outreach eligibility needs explicit human and privacy approvals", () => {
-  const c={...sample, humanApproved:true, privacyReviewed:true, suppressed:false};
+  const c={...sample, humanApproved:true, privacyReviewed:true,
+    contactVerified:true, suppressionChecked:true, suppressed:false};
   assert.equal(scoreOpportunity(c).outreachEligible, true);
   assert.equal(scoreOpportunity({...c, suppressed:true}).outreachEligible, false);
+});
+test("unknown suppression never passes outreach review", () => {
+  const c={...sample, humanApproved:true, privacyReviewed:true,
+    contactVerified:true, suppressionChecked:true};
+  assert.equal(scoreOpportunity(c).outreachEligible, false);
+});
+test("unverified contact never passes outreach review", () => {
+  const c={...sample, humanApproved:true, privacyReviewed:true,
+    contactVerified:false, suppressionChecked:true, suppressed:false};
+  assert.equal(scoreOpportunity(c).outreachEligible, false);
 });
