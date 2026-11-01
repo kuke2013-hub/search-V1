@@ -30,8 +30,11 @@ export function scoreOpportunity(candidate) {
     rankable: true,
     score,
     kind: "heuristic_not_probability",
+    // Explicit, fail-closed review gates. This does not send anything.
     outreachEligible: candidate.humanApproved === true &&
       candidate.privacyReviewed === true &&
-      candidate.suppressed !== true
+      candidate.contactVerified === true &&
+      candidate.suppressionChecked === true &&
+      candidate.suppressed === false
   };
 }
