@@ -1,8 +1,8 @@
 # SEARCH-V1 — Opportunity Intelligence Engine
 
-**Status (1 Nov 2026): foundation / research design. No live sources, deployed backend, inbox access, autonomous outreach or booking integration.**
+**Status (1 Nov 2026): searchable static research website in `index.html` with 323 industry entries, 7 official London-office watchlist prospects and 10 source-register entries. No live source monitoring, authenticated backend, inbox access, autonomous outreach or booking integration.**
 
-A private, evidence-first research and lead-qualification engine for actor-headshot and corporate-headshot services. This **public repository contains code, schema, and documentation only**. Customer records, contact exports, API keys, and private research must never be committed.
+A private, evidence-first research and lead-qualification engine for actor-headshot and corporate-headshot services. This **public repository contains code, documentation and a publicly viewable research snapshot sourced from public professional listings**. All published data is accessible before authentication; do not commit private customer records, opt-out lists, confidential contacts, credentials or internal CRM notes.
 
 ## Product goal
 
@@ -23,7 +23,7 @@ Success is measured by incremental contribution profit, not scraped names, sched
 - **Industry directory:** agencies, casting practices, coaches, schools, event organisers, sector bodies.
 - **Corporate monitor:** company news and approved, published job-board signals.
 - **Evidence and opportunity pipeline:** source URL, observed date, fact/hypothesis distinction, deduplication, qualification.
-- **Private review dashboard:** opportunities, verification, outreach drafts and booking outcomes.
+- **Research dashboard (now):** public source-indexed directory and transparent research-priority ranking; a private backend and outcomes pipeline are future stages.
 - **Inbound measurement:** attribution and opportunities from legitimate search traffic and business listings.
 
 ## Safety rules
@@ -35,9 +35,17 @@ Success is measured by incremental contribution profit, not scraped names, sched
 - No AI output is evidence without an original independently accessible source.
 - Keep private CRM, personal data and suppression lists in access-controlled storage, never in this public repository.
 
-## Implementation status
+## Website and implementation status
 
-The `migrations/0001_init.sql` schema has passed local SQLite smoke checks. The initial Worker responds to a minimal health endpoint and can record scheduler boot checks **only after** D1 is configured; it does not collect leads. No Cloudflare deployment has been made here.
+- **Website:** [SEARCH-V1 static dashboard](https://kuke2013-hub.github.io/search-V1/) — requires GitHub Pages to be enabled in repository **Settings → Pages → Source: GitHub Actions** before this address serves the site.
+- **Directory:** 323 industry research entries, 7 separately researched corporate London office prospects; rank means research priority, not booking probability.
+- **Features:** search, filter, transparent ranking, evidence drawer, event/source views, local-browser shortlist, CSV export, responsive desktop/mobile layout.
+- **Data:** `data/research_seed.json` is the public-snapshot seed; `node tools/import_seed.mjs` prepares D1 SQL **without executing it**.
+- **Tests:** the static website passed local Chromium interaction checks and additional `node --test` data-integrity tests.
+- **Deployment:** `.github/workflows/pages.yml` attempts deployment on changes to `index.html`; GitHub Pages must be enabled in settings if it is not already.
+- **Backend:** the earlier D1 schema and Worker foundation remain undeployed. There are no scheduled monitors or active external calls.
+
+Read [Website instructions](WEBSITE.md) for detailed limitations, and do not interpret stored public contact details as permission to send marketing.
 
 Read: [Product specification](docs/PRODUCT_SPEC.md) · [Source and privacy policy](docs/SOURCE_POLICY.md) · [Pilot and acceptance tests](docs/PILOT_PLAN.md).
 
