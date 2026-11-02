@@ -1,0 +1,54 @@
+name: Build London company research export
+
+on:
+  workflow_dispatch:
+    inputs:
+      snapshot:
+        description: 'Companies House monthly snapshot (YYYY-MM-01)'
+        required: true
+        default: '2026-11-01'
+
+permissions:
+  contents: read
+
+jobs:
+  london-research-export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check importer and role-query tests
+        run: python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Download seven official Companies House ZIP parts
+        env:
+          SNAPSHOT: ${{ inputs.snapshot }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ ! "$SNAPSHOT" =~ ^20[0-9]{2}-(0[1-9]|1[0-2])-01$ ]]; then echo 'Invalid snapshot date'; exit 1; fi
+          mkdir -p /tmp/ch-parts
+          for i in $(seq 1 7); do
+            name="BasicCompanyData-${SNAPSHOT}-part${i}_7.zip"
+            curl --fail --location --silent --show-error --retry 3 --retry-delay 5 \
+              "https://download.companieshouse.gov.uk/${name}" -o "/tmp/ch-parts/${name}"
+            unzip -tq "/tmp/ch-parts/${name}" > /dev/null
+          done
+      - name: Generate research candidate lists
+        run: |
+          mkdir -p local
+          python3 scripts/import_companies_house.py /tmp/ch-parts/*.zip -o local/london_company_candidates.csv
+          python3 scripts/build_people_queries.py local/london_company_candidates.csv -o local/people_research_queries.csv --limit 2000
+          echo 'Company candidate records (excluding header):'
+          tail -n +2 local/london_company_candidates.csv | wc -l
+      - name: Upload research CSV export
+        uses: actions/upload-artifact@v4
+        with:
+          name: london-company-research-${{ inputs.snapshot }}
+          path: |
+            local/london_company_candidates.csv
+            local/people_research_queries.csv
+          if-no-files-found: error
+          retention-days: 30
