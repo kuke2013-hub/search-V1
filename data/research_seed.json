@@ -4350,7 +4350,17 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Permira%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Permira%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [
+        {
+          "name": "Rebecca West",
+          "title": "Office Manager - Director (London administration and facilities)",
+          "evidence": "https://www.permira.com/people/meet-our-people/rebecca-west",
+          "linkedin": "https://uk.linkedin.com/in/rebecca-west-01a43b32",
+          "confidence": "Employer-confirmed London role + matching professional LinkedIn",
+          "status": "Employer biography confirms responsibility for administration and facilities operations of London office. LinkedIn name and Permira employment also match. Role checked 2 November 2026.",
+          "reviewedAt": "2026-11-02"
+        }
+      ]
     },
     {
       "name": "Hg",
@@ -4373,7 +4383,18 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Hg%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Hg%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [
+        {
+          "name": "Alex Manzo",
+          "title": "Office Manager (London workplace and facilities)",
+          "evidence": "https://hgcapital.com/team/alex-manzo",
+          "linkedin": "https://uk.linkedin.com/in/oamanzo",
+          "email": "Alex.Manzo@hgcapital.com",
+          "confidence": "Employer-confirmed London role + matching professional LinkedIn + company-published email",
+          "status": "Company website explicitly names London Office Manager responsible for workplace and facilities services; professional LinkedIn agrees on Hg London employment. Checked 2 November 2026.",
+          "reviewedAt": "2026-11-02"
+        }
+      ]
     },
     {
       "name": "Bridgepoint Group",
@@ -6921,7 +6942,17 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Thoma%20Bravo%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Thoma%20Bravo%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [
+        {
+          "name": "Beth Paul",
+          "title": "Office Manager and Senior Executive Assistant (London)",
+          "evidence": "https://www.thomabravo.com/team/beth-paul",
+          "linkedin": "https://uk.linkedin.com/in/beth-paul-790154b",
+          "confidence": "Employer-confirmed London role + matching professional LinkedIn",
+          "status": "Company London staff biography identifies exact position and office; LinkedIn matches name, London and Thoma Bravo employment. Checked 2 November 2026.",
+          "reviewedAt": "2026-11-02"
+        }
+      ]
     },
     {
       "id": "c087",
@@ -6977,7 +7008,17 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Cap10%20Partners%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Cap10%20Partners%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [
+        {
+          "name": "Tracy Collison",
+          "title": "Office Manager (London)",
+          "evidence": "https://cap10partners.com/our-team",
+          "linkedin": "https://uk.linkedin.com/in/tracy-collison-assoc-cipd-66329562",
+          "confidence": "Employer-confirmed UK office role + employer-linked professional LinkedIn",
+          "status": "Official London company team page explicitly lists Tracy Collison as Office Manager, with a link to the same professional LinkedIn profile. Checked 2 November 2026.",
+          "reviewedAt": "2026-11-02"
+        }
+      ]
     },
     {
       "id": "c089",
@@ -7745,7 +7786,7 @@
     }
   ],
   "snapshot": "2026-11-02",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "decisionMakers": [
     {
       "company": "IK Partners",
@@ -8366,6 +8407,47 @@
       "evidence": "https://ambientasgr.com/team/mia-clapperton/",
       "status": "Employer's official biography names Office Manager. Ambienta lists a London St James's office, but this biography does not independently confirm that Mia is based at the London office; do not call her the London office manager until verified.",
       "confidence": "Employer job title confirmed; London placement unknown",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "company": "Permira",
+      "name": "Rebecca West",
+      "title": "Office Manager - Director (London administration and facilities)",
+      "evidence": "https://www.permira.com/people/meet-our-people/rebecca-west",
+      "linkedin": "https://uk.linkedin.com/in/rebecca-west-01a43b32",
+      "confidence": "Employer-confirmed London role + matching professional LinkedIn",
+      "status": "Employer biography confirms responsibility for administration and facilities operations of London office. LinkedIn name and Permira employment also match. Role checked 2 November 2026.",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "company": "Hg",
+      "name": "Alex Manzo",
+      "title": "Office Manager (London workplace and facilities)",
+      "evidence": "https://hgcapital.com/team/alex-manzo",
+      "linkedin": "https://uk.linkedin.com/in/oamanzo",
+      "email": "Alex.Manzo@hgcapital.com",
+      "confidence": "Employer-confirmed London role + matching professional LinkedIn + company-published email",
+      "status": "Company website explicitly names London Office Manager responsible for workplace and facilities services; professional LinkedIn agrees on Hg London employment. Checked 2 November 2026.",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "company": "Thoma Bravo",
+      "name": "Beth Paul",
+      "title": "Office Manager and Senior Executive Assistant (London)",
+      "evidence": "https://www.thomabravo.com/team/beth-paul",
+      "linkedin": "https://uk.linkedin.com/in/beth-paul-790154b",
+      "confidence": "Employer-confirmed London role + matching professional LinkedIn",
+      "status": "Company London staff biography identifies exact position and office; LinkedIn matches name, London and Thoma Bravo employment. Checked 2 November 2026.",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "company": "Cap10 Partners",
+      "name": "Tracy Collison",
+      "title": "Office Manager (London)",
+      "evidence": "https://cap10partners.com/our-team",
+      "linkedin": "https://uk.linkedin.com/in/tracy-collison-assoc-cipd-66329562",
+      "confidence": "Employer-confirmed UK office role + employer-linked professional LinkedIn",
+      "status": "Official London company team page explicitly lists Tracy Collison as Office Manager, with a link to the same professional LinkedIn profile. Checked 2 November 2026.",
       "reviewedAt": "2026-11-02"
     }
   ],
