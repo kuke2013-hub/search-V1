@@ -6886,7 +6886,17 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22TowerBrook%20Capital%20Partners%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22TowerBrook%20Capital%20Partners%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [
+        {
+          "name": "Joanna Mangan",
+          "title": "Administrative Services and Office Director",
+          "linkedin": "https://uk.linkedin.com/in/joanna-mangan-6a165a14",
+          "evidence": "https://www.towerbrook.com/our-team/joanna-mangan/",
+          "reviewedAt": "2026-11-02",
+          "confidence": "Employer-confirmed office-services leadership + matching London professional LinkedIn",
+          "status": "Company biography names Administrative Services and Office Director and is based in Europe; professional LinkedIn confirms TowerBrook London employment. Suitable operational research lead, not confirmed headshot buyer."
+        }
+      ]
     },
     {
       "id": "c085",
@@ -7786,7 +7796,7 @@
     }
   ],
   "snapshot": "2026-11-02",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "decisionMakers": [
     {
       "company": "IK Partners",
@@ -8449,6 +8459,16 @@
       "confidence": "Employer-confirmed UK office role + employer-linked professional LinkedIn",
       "status": "Official London company team page explicitly lists Tracy Collison as Office Manager, with a link to the same professional LinkedIn profile. Checked 2 November 2026.",
       "reviewedAt": "2026-11-02"
+    },
+    {
+      "company": "TowerBrook Capital Partners",
+      "name": "Joanna Mangan",
+      "title": "Administrative Services and Office Director",
+      "linkedin": "https://uk.linkedin.com/in/joanna-mangan-6a165a14",
+      "evidence": "https://www.towerbrook.com/our-team/joanna-mangan/",
+      "reviewedAt": "2026-11-02",
+      "confidence": "Employer-confirmed office-services leadership + matching London professional LinkedIn",
+      "status": "Company biography names Administrative Services and Office Director and is based in Europe; professional LinkedIn confirms TowerBrook London employment. Suitable operational research lead, not confirmed headshot buyer."
     }
   ],
   "victoriaBuildings": [
