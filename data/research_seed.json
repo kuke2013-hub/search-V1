@@ -4360,7 +4360,27 @@
           "status": "Employer biography confirms responsibility for administration and facilities operations of London office. LinkedIn name and Permira employment also match. Role checked 2 November 2026.",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.permira.com/people",
+          "https://www.permira.com/people/meet-our-people",
+          "https://www.permira.com/people/culture-and-values",
+          "https://www.permira.com/people/life-at-permira",
+          "https://www.permira.com/investing/credit/clo-management"
+        ],
+        "rolePages": [
+          "https://www.permira.com/people/meet-our-people"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Hg",
@@ -4394,7 +4414,20 @@
           "status": "Company website explicitly names London Office Manager responsible for workplace and facilities services; professional LinkedIn agrees on Hg London employment. Checked 2 November 2026.",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://hgcapital.com/team",
+          "https://hgcapital.com/insights/hg-silicon-valley-leadership-summit-2026-navigating-the-ai-transformation"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Bridgepoint Group",
@@ -4426,7 +4459,17 @@
           "status": "Employer-published London head of executive assistants",
           "confidence": "Employer-published role"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "blocked_or_unknown_robots",
+        "robots": "blocked_http_403",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": ""
+      }
     },
     {
       "name": "Apax Partners",
@@ -4448,7 +4491,22 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Apax+Partners%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Apax+Partners%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.apax.com/people/life-at-apax/",
+          "https://www.apax.com/people/our-team/",
+          "https://www.apax.com/people/culture-values/",
+          "https://www.apax.com/people/inclusion-and-diversity/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Cinven",
@@ -4471,7 +4529,24 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Cinven%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Cinven%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.cinven.com/team/",
+          "https://www.cinven.com/news-insights/living-in-the-matrix-hitting-the-bullseye-with-archer-through-cross-team-collaboration/"
+        ],
+        "rolePages": [
+          "https://www.cinven.com/team/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "ICG",
@@ -4493,7 +4568,21 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22ICG%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22ICG%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.icgam.com/people-and-careers/",
+          "https://www.icgam.com/who-we-are/leadership-governance/",
+          "https://www.icgam.com/who-we-are/leadership-governance/policies-disclosures/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "CVC",
@@ -4515,7 +4604,19 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22CVC%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22CVC%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.cvc.com/about/our-people/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c008",
@@ -4555,7 +4656,19 @@
           "status": "Employer publishes London role; public profile not checked",
           "confidence": "Employer-published role"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://ikpartners.com/our-people/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c009",
@@ -4586,7 +4699,21 @@
           "status": "Employer confirms current title; LinkedIn self-describes EA/Office Manager and matches employer",
           "confidence": "Employer-published role"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.inflexion.com/about-us/",
+          "https://www.inflexion.com/people/",
+          "https://www.inflexion.com/about-us/about-us-faqs/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c010",
@@ -4618,7 +4745,29 @@
           "status": "Employer confirms role; LinkedIn profile identifies Troy",
           "confidence": "Employer-published role"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.taml.co.uk",
+          "https://www.taml.co.uk/about-us/our-story/",
+          "https://www.taml.co.uk/about-us/how-we-invest/",
+          "https://www.taml.co.uk/about-us/our-team/",
+          "https://www.taml.co.uk/about-us/philanthropy-and-community/"
+        ],
+        "rolePages": [
+          "https://www.taml.co.uk/about-us/our-team/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office assistant",
+          "office coordinator"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c011",
@@ -4640,7 +4789,23 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Balyasny+Asset+Management%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Balyasny+Asset+Management%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.bamfunds.com",
+          "https://www.bamfunds.com/",
+          "https://www.bamfunds.com/about-us",
+          "https://www.bamfunds.com/about-us/locations",
+          "https://www.bamfunds.com/about-us/leadership"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c012",
@@ -4663,7 +4828,19 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Ballymore%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Ballymore%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.ballymoregroup.com/who-we-are"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c013",
@@ -4711,7 +4888,22 @@
       "locationStatus": "official_office",
       "signalType": "district_occupier",
       "signalSource": "",
-      "headcountEvidence": ""
+      "headcountEvidence": "",
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.landsec.com/our-team",
+          "https://www.landsec.com/team",
+          "https://www.landsec.com/people",
+          "https://www.landsec.com/our-people"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c014",
@@ -4733,7 +4925,23 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Brookfield%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Brookfield%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.brookfield.com/about-us/who-we-are",
+          "https://www.brookfield.com/about-us/global-presence",
+          "https://www.brookfield.com/about-us/ecosystem",
+          "https://www.brookfield.com/about-us/leadership",
+          "https://www.brookfield.com/about-us/sustainability"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c015",
@@ -4755,7 +4963,17 @@
       "researchStatus": "Office identity / published roles only; headcount and photography need unverified",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22TDC+PR%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22people+operations%22+OR+%22executive+assistant%22%29+London+site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22TDC+PR%22+%28%22office+manager%22+OR+%22workplace+manager%22+OR+%22head+of+people%22+OR+%22marketing+manager%22%29+London+-site%3Alinkedin.com",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c016",
@@ -4784,7 +5002,23 @@
           "status": "Employer confirms office management across London and Dublin; no personal LinkedIn verified",
           "confidence": "Employer-published role"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://novellusfinance.com/uk/meet-the-team/"
+        ],
+        "rolePages": [
+          "https://novellusfinance.com/uk/meet-the-team/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c017",
@@ -4814,7 +5048,28 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22BlackFin%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22BlackFin%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22BlackFin%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://blackfin.com/about-us/",
+          "https://blackfin.com/team/",
+          "http://blackfin.com/about-us/",
+          "http://blackfin.com/team/"
+        ],
+        "rolePages": [
+          "https://blackfin.com/team/",
+          "http://blackfin.com/team/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c018",
@@ -4844,7 +5099,24 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22MML%20Capital%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22MML%20Capital%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22MML%20Capital%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://mmlcapital.com/people/"
+        ],
+        "rolePages": [
+          "https://mmlcapital.com/people/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c019",
@@ -4901,7 +5173,24 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22ECI%20Partners%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22ECI%20Partners%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22ECI%20Partners%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.ecipartners.com/our-team"
+        ],
+        "rolePages": [
+          "https://www.ecipartners.com/our-team"
+        ],
+        "roleTerms": [
+          "office assistant",
+          "office manager"
+        ],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c020",
@@ -4940,7 +5229,26 @@
       "locationStatus": "official_office",
       "signalType": "district_occupier",
       "signalSource": "",
-      "headcountEvidence": ""
+      "headcountEvidence": "",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "not_present",
+        "teamPages": [
+          "https://www.pelicancapital.com/about-us/",
+          "https://www.pelicancapital.com/team/",
+          "http://www.pelicancapital.com/about-us/"
+        ],
+        "rolePages": [
+          "https://www.pelicancapital.com/team/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c021",
@@ -4970,7 +5278,20 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Trinity%20Street%20Asset%20Management%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Trinity%20Street%20Asset%20Management%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Trinity%20Street%20Asset%20Management%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.trinitystreetam.com",
+          "https://www.trinitystreetam.com/team"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c022",
@@ -5010,7 +5331,24 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Vantage%20Infrastructure%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Vantage%20Infrastructure%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Vantage%20Infrastructure%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.vantageinfra.com/about-us/",
+          "https://www.vantageinfra.com/team/"
+        ],
+        "rolePages": [
+          "https://www.vantageinfra.com/team/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c023",
@@ -5040,7 +5378,25 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Keyhaven%20Capital%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Keyhaven%20Capital%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Keyhaven%20Capital%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "not_present",
+        "teamPages": [
+          "https://www.keyhavencapital.com/team/",
+          "https://www.keyhavencapital.com/team"
+        ],
+        "rolePages": [
+          "https://www.keyhavencapital.com/team/",
+          "https://www.keyhavencapital.com/team"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c024",
@@ -5070,7 +5426,25 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Dalmore%20Capital%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Dalmore%20Capital%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Dalmore%20Capital%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.dalmorecapital.com/about-us/",
+          "https://www.dalmorecapital.com/about-us/investment-strategy/",
+          "https://www.dalmorecapital.com/our-people/"
+        ],
+        "rolePages": [
+          "https://www.dalmorecapital.com/our-people/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c025",
@@ -5100,7 +5474,24 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Optum%20Ventures%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Optum%20Ventures%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Optum%20Ventures%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.optumventures.com/our-team"
+        ],
+        "rolePages": [
+          "https://www.optumventures.com/our-team"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c026",
@@ -5130,7 +5521,23 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22W.RE%20Property%20Experts%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22W.RE%20Property%20Experts%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22W.RE%20Property%20Experts%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://wre.london/team"
+        ],
+        "rolePages": [
+          "https://wre.london/team"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c027",
@@ -5187,7 +5594,23 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Wilfords%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Wilfords%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Wilfords%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.wilfords.com/about/our-team/"
+        ],
+        "rolePages": [
+          "https://www.wilfords.com/about/our-team/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c028",
@@ -5217,7 +5640,25 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22KSR%20Architects%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22KSR%20Architects%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22KSR%20Architects%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://ksrarchitects.com/about-us/",
+          "https://ksrarchitects.com/our-team/",
+          "https://ksrarchitects.com/join-our-team/"
+        ],
+        "rolePages": [
+          "https://ksrarchitects.com/our-team/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c029",
@@ -5256,7 +5697,17 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22MSMR%20Architects%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22MSMR%20Architects%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22MSMR%20Architects%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "not_present",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c030",
@@ -5286,7 +5737,17 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Mayfair%20Office%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Mayfair%20Office%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Mayfair%20Office%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "blocked_or_unknown_robots",
+        "robots": "blocked_http_403",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": ""
+      }
     },
     {
       "id": "c031",
@@ -5316,7 +5777,27 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Lysander%20Associates%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Lysander%20Associates%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Lysander%20Associates%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://lysander.com/our-people/",
+          "https://lysander.com/what-we-do/project-management/",
+          "https://lysander.com/what-we-do/cost-management/",
+          "https://lysander.com/who-we-work-with/records-management/"
+        ],
+        "rolePages": [
+          "https://lysander.com/our-people/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c032",
@@ -5346,7 +5827,25 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22LeapFrog%20Investments%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22LeapFrog%20Investments%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22LeapFrog%20Investments%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://leapfroginvest.com/our-team/",
+          "https://leapfroginvest.com/press-release/leapfrog-companies-reach-622m-people-generate-9b-in-revenue-and-1-5b-in-profit/"
+        ],
+        "rolePages": [
+          "https://leapfroginvest.com/our-team/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c033",
@@ -5385,7 +5884,24 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Mosaic%20Insurance%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Mosaic%20Insurance%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Mosaic%20Insurance%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.mosaicinsurance.com/culture/people/"
+        ],
+        "rolePages": [
+          "https://www.mosaicinsurance.com/culture/people/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c034",
@@ -5415,7 +5931,24 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22SDCL%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22SDCL%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22SDCL%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.sdclgroup.com/about-us/",
+          "https://www.sdclgroup.com/team/"
+        ],
+        "rolePages": [
+          "https://www.sdclgroup.com/team/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c035",
@@ -5445,7 +5978,27 @@
         }
       ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Team%20London%20Bridge%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Team%20London%20Bridge%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Team%20London%20Bridge%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.teamlondonbridge.co.uk",
+          "https://www.teamlondonbridge.co.uk/about-us/",
+          "https://www.teamlondonbridge.co.uk/about-us/people/",
+          "https://www.teamlondonbridge.co.uk/about-us/governance/",
+          "https://www.teamlondonbridge.co.uk/about-us/projects/"
+        ],
+        "rolePages": [
+          "https://www.teamlondonbridge.co.uk/about-us/people/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c036",
@@ -5464,9 +6017,35 @@
       "note": "Published office manager vacancy; company states its team currently numbers 25. A vacancy is not evidence of a currently employed office manager or demand for headshots.",
       "researchStatus": "Published office management vacancy, not a verified current manager",
       "signalType": "office_management_vacancy",
-      "decisionMakers": [],
+      "decisionMakers": [
+        {
+          "name": "Lavone Skinner",
+          "title": "Studio Manager and Marketing Coordinator",
+          "evidence": "https://www.mossessian.com/people/",
+          "linkedin": "",
+          "status": "Official company People page lists Lavone Skinner as Studio Manager and Marketing Coordinator for a London-based architecture practice. Not specifically titled office manager; LinkedIn not matched.",
+          "confidence": "Employer-confirmed studio and marketing role; LinkedIn not established",
+          "reviewedAt": "2026-11-02"
+        }
+      ],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Mossessian%20Architecture%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Mossessian%20Architecture%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Mossessian%20Architecture%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.mossessian.com/people/"
+        ],
+        "rolePages": [
+          "https://www.mossessian.com/people/"
+        ],
+        "roleTerms": [
+          "studio manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c037",
@@ -5487,7 +6066,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Dwelly%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Dwelly%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Dwelly%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "id": "c038",
@@ -5508,7 +6097,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Argus%20Media%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Argus%20Media%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Argus%20Media%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "id": "c039",
@@ -5529,7 +6128,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Valor%20Real%20Estate%20Partners%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Valor%20Real%20Estate%20Partners%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Valor%20Real%20Estate%20Partners%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "id": "c040",
@@ -5550,7 +6159,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Ctrl%20Alt%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Ctrl%20Alt%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Ctrl%20Alt%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "id": "c041",
@@ -5571,7 +6190,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Seedcamp%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Seedcamp%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Seedcamp%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "id": "c042",
@@ -5592,7 +6221,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Moonpig%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Moonpig%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Moonpig%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "id": "c043",
@@ -5613,7 +6252,25 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Abbatt%20Group%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Abbatt%20Group%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Abbatt%20Group%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://abbatt.co.uk/dual-management/",
+          "https://abbatt.co.uk/about-us/",
+          "https://abbatt.co.uk/about-us/work-for-us/"
+        ],
+        "rolePages": [
+          "https://abbatt.co.uk"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c044",
@@ -5634,7 +6291,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Hippo%20Digital%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Hippo%20Digital%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Hippo%20Digital%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "id": "c045",
@@ -5655,7 +6322,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Proficiency%20Design%20and%20Build%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Proficiency%20Design%20and%20Build%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Proficiency%20Design%20and%20Build%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c046",
@@ -5676,7 +6353,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Arora%20Group%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Arora%20Group%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Arora%20Group%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "id": "c047",
@@ -5697,7 +6384,17 @@
       "signalType": "office_management_vacancy",
       "decisionMakers": [],
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Steyn%20Group%22%20%22office%20manager%22%20London%20site%3Alinkedin.com%2Fin%2F",
-      "officialRoleSearch": "https://www.google.com/search?q=%22Steyn%20Group%22%20%22office%20manager%22%20%22London%22"
+      "officialRoleSearch": "https://www.google.com/search?q=%22Steyn%20Group%22%20%22office%20manager%22%20%22London%22",
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "id": "c048",
@@ -5726,7 +6423,19 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22HPS%20Investment%20Partners%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22HPS%20Investment%20Partners%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.hpspartners.com/our-story/team-culture"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c049",
@@ -5765,7 +6474,17 @@
           "confidence": "Employer-published media role",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "pages_not_accessible",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c050",
@@ -5794,7 +6513,24 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22CCLA%20Investment%20Management%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22CCLA%20Investment%20Management%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.ccla.co.uk",
+          "https://www.ccla.co.uk/about-us/our-philosophy",
+          "https://www.ccla.co.uk/about-us/our-people",
+          "https://www.ccla.co.uk/about-us/our-history",
+          "https://www.ccla.co.uk/about-us/policies-and-reports",
+          "https://www.ccla.co.uk/about-us/policies-and-reports/policies/complaints-policy"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c051",
@@ -5823,7 +6559,20 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Ashmore%20Group%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Ashmore%20Group%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.ashmoregroup.com/en-gb/about-us",
+          "https://www.ashmoregroup.com/en-gb/about-us/awards"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c052",
@@ -5852,7 +6601,22 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Mediobanca%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Mediobanca%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.mediobanca.com/en/mediobanca/about-us.html",
+          "https://www.mediobanca.com/en/corporate-governance/leadership-team.html",
+          "https://www.mediobanca.com/en/corporate-governance/remuneration/management-and-board-pay.html",
+          "https://www.mediobanca.com/en/corporate-governance/internal-control-and-risks/risk-management.html"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c053",
@@ -5881,7 +6645,17 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Ruffer%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Ruffer%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c054",
@@ -5920,7 +6694,17 @@
           "confidence": "Self-published LinkedIn, employer unconfirmed",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c055",
@@ -5949,7 +6733,19 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Vitol%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Vitol%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.vitol.com/our-people/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c056",
@@ -5978,7 +6774,24 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Egon%20Zehnder%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Egon%20Zehnder%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.egonzehnder.com",
+          "https://www.egonzehnder.com/about-us",
+          "https://www.egonzehnder.com/what-we-do/team-journey",
+          "https://www.egonzehnder.com/what-we-do/breakthrough-leadership-programs",
+          "https://www.egonzehnder.com/what-we-do/breakthrough-leadership-programs/chair-and-board-potential",
+          "https://www.egonzehnder.com/what-we-do/breakthrough-leadership-programs/executive-breakthrough"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c057",
@@ -6046,7 +6859,29 @@
           "confidence": "Employer-published role",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.silverpeakib.com/our-team/",
+          "https://www.silverpeakib.com/healthtech-leadership-dinner/",
+          "https://www.silverpeakib.com/silverpeak-co-hosts-leadership-dinner-for-data-rich-businesses/"
+        ],
+        "rolePages": [
+          "https://www.silverpeakib.com",
+          "https://www.silverpeakib.com/our-team/",
+          "https://www.silverpeakib.com/member/olivia-jones/",
+          "https://www.silverpeakib.com/member/thatch-aka-sarah-green/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c058",
@@ -6086,7 +6921,17 @@
           "email": "",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "pages_not_accessible",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c059",
@@ -6115,7 +6960,20 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22AlTi%20Global%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22AlTi%20Global%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://alti-global.com",
+          "https://alti-global.com/people/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c060",
@@ -6144,7 +7002,19 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22BlueCrest%20Capital%20Management%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22BlueCrest%20Capital%20Management%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "not_present",
+        "teamPages": [
+          "https://www.bluecrestcapital.com"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c061",
@@ -6173,7 +7043,20 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Qube%20Research%20%26%20Technologies%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Qube%20Research%20%26%20Technologies%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.qube-rt.com",
+          "https://www.qube-rt.com/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c062",
@@ -6202,7 +7085,23 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Capital%20Economics%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Capital%20Economics%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.capitaleconomics.com/about",
+          "https://www.capitaleconomics.com/about-us/our-team/paul-dales",
+          "https://www.capitaleconomics.com/about-us/our-team/james-reilly",
+          "https://www.capitaleconomics.com/about-us/our-team/thomas-mathews",
+          "https://www.capitaleconomics.com/about-us/our-team/william-jackson"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c063",
@@ -6241,7 +7140,24 @@
           "confidence": "Employer-published senior role",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.wellington.com/en",
+          "https://www.wellington.com/en/capabilities/private-investing/our-team",
+          "https://www.wellington.com/en/about-us/learn-more-about-our-firm",
+          "https://www.wellington.com/en/about-us/our-clients",
+          "https://www.wellington.com/en/about-us/our-team",
+          "https://www.wellington.com/en/about-us/diversity-equity-and-inclusion"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c064",
@@ -6270,7 +7186,24 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Mirabaud%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Mirabaud%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.mirabaud.com/en/",
+          "https://www.mirabaud.com/en/mirabaud-group/maison-mirabaud/about-us",
+          "https://www.mirabaud.com/en/services/wealth-management/wealth-management-overview",
+          "https://www.mirabaud.com/en/services/wealth-management/discretionary-management",
+          "https://www.mirabaud.com/en/services/wealth-management/advisory",
+          "https://www.mirabaud.com/en/services/wealth-management/wealth-planning"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c065",
@@ -6299,7 +7232,22 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22BMT%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22BMT%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.bmt.org/about-us/",
+          "https://www.bmt.org/about-us/our-employee-priorities/",
+          "https://www.bmt.org/about-us/sustainability/",
+          "https://www.bmt.org/about-us/our-heritage/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c066",
@@ -6328,7 +7276,19 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Peak%20Rock%20Capital%20Europe%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Peak%20Rock%20Capital%20Europe%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "not_present",
+        "teamPages": [
+          "https://peakrockcapital.com/team/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c067",
@@ -6357,7 +7317,17 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22British%20International%20Investment%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22British%20International%20Investment%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "pages_not_accessible",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c068",
@@ -6386,7 +7356,17 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Sierra%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Sierra%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c069",
@@ -6415,7 +7395,17 @@
       "approach": "Investigate a consistent corporate headshot service; verify current purchasing responsibility",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22The%20Travel%20Corporation%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22people%20operations%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22The%20Travel%20Corporation%22%20(%22office%20manager%22%20OR%20%22workplace%22%20OR%20%22marketing%20director%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "skipped_no_official_company_site",
+        "robots": "not_checked",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+      }
     },
     {
       "name": "Rockpool Investments",
@@ -6453,7 +7443,19 @@
           "confidence": "Employer role + independently matched LinkedIn",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://rockpoolinvestments.co.uk/our-team/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Oaktree Capital Management",
@@ -6491,7 +7493,20 @@
           "confidence": "Self-published LinkedIn; job-title unconfirmed",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.oaktreecapital.com",
+          "https://www.oaktreecapital.com/about/leadership"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Redwheel",
@@ -6519,7 +7534,19 @@
       "approach": "Assess company team-portrait requirements; verify an appropriate current workplace or marketing decision-maker before outreach",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Redwheel%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22head%20of%20people%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Redwheel%22%20(%22office%20manager%22%20OR%20%22marketing%20manager%22%20OR%20%22HR%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.redwheel.com/uk/en/professional/about-us/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "TP ICAP Group",
@@ -6547,7 +7574,20 @@
       "approach": "Assess company team-portrait requirements; verify an appropriate current workplace or marketing decision-maker before outreach",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22TP%20ICAP%20Group%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22head%20of%20people%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22TP%20ICAP%20Group%22%20(%22office%20manager%22%20OR%20%22marketing%20manager%22%20OR%20%22HR%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://tpicap.com/tpicap/leadership",
+          "https://tpicap.com/tpicap/esg-reporting-and-performance-management"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Caledonia Investments",
@@ -6575,7 +7615,21 @@
       "approach": "Assess company team-portrait requirements; verify an appropriate current workplace or marketing decision-maker before outreach",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Caledonia%20Investments%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22head%20of%20people%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Caledonia%20Investments%22%20(%22office%20manager%22%20OR%20%22marketing%20manager%22%20OR%20%22HR%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.caledonia.com/about/our-people/",
+          "https://www.caledonia.com/investors/risk-management/",
+          "https://www.caledonia.com/news/caledonia-private-capital-announces-leadership-succession/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Lindsell Train",
@@ -6613,8 +7667,37 @@
           "status": "Official team and current public contact page confirm title and professional business email; LinkedIn matches employer.",
           "confidence": "Employer role + matched LinkedIn + published business contact",
           "reviewedAt": "2026-11-02"
+        },
+        {
+          "name": "Jolene Cook",
+          "title": "Office Manager",
+          "evidence": "https://www.lindselltrain.com/team/",
+          "linkedin": "",
+          "status": "Current official Team page lists Jolene Cook as Office Manager, joining in 2023. Employer is London-based. No matching individual LinkedIn established in this research.",
+          "confidence": "Employer-confirmed office manager; LinkedIn not established",
+          "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.lindselltrain.com/about-us/",
+          "https://www.lindselltrain.com/about-us/our-business/",
+          "https://www.lindselltrain.com/about-us/investment-approach/",
+          "https://www.lindselltrain.com/about-us/history/",
+          "https://www.lindselltrain.com/team/"
+        ],
+        "rolePages": [
+          "https://www.lindselltrain.com/team/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Jarron Investments",
@@ -6642,7 +7725,17 @@
       "approach": "Assess company team-portrait requirements; verify an appropriate current workplace or marketing decision-maker before outreach",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Jarron%20Investments%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22head%20of%20people%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Jarron%20Investments%22%20(%22office%20manager%22%20OR%20%22marketing%20manager%22%20OR%20%22HR%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "AtkinsRéalis",
@@ -6670,7 +7763,26 @@
       "approach": "Assess company team-portrait requirements; verify an appropriate current workplace or marketing decision-maker before outreach",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22AtkinsR%C3%A9alis%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22head%20of%20people%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22AtkinsR%C3%A9alis%22%20(%22office%20manager%22%20OR%20%22marketing%20manager%22%20OR%20%22HR%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.atkinsrealis.com/en/about/our-leadership",
+          "https://www.atkinsrealis.com/en/engineering-better-future/beyond-engineering/ai-the-future-of-floodplain-and-flood-risk-management",
+          "https://www.atkinsrealis.com/en/engineering-better-future/beyond-engineering/handbook-for-urban-heat-management",
+          "https://www.atkinsrealis.com/en/engineering-better-future/beyond-engineering/on-track-with-automated-people-movers"
+        ],
+        "rolePages": [
+          "https://www.atkinsrealis.com/en/about/our-leadership"
+        ],
+        "roleTerms": [
+          "executive assistant"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Global Switch",
@@ -6708,7 +7820,21 @@
           "confidence": "Employer role + matched LinkedIn",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.globalswitch.com/about/",
+          "https://www.globalswitch.com/leadership-team/",
+          "https://www.globalswitch.com/our-offer/people/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "Advent International",
@@ -6746,7 +7872,20 @@
           "confidence": "Employer-published senior HR role",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.adventinternational.com/about-us/",
+          "https://www.adventinternational.com/our-team/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "L.E.K. Consulting",
@@ -6774,7 +7913,23 @@
       "approach": "Assess company team-portrait requirements; verify an appropriate current workplace or marketing decision-maker before outreach",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22L.E.K.%20Consulting%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22head%20of%20people%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22L.E.K.%20Consulting%22%20(%22office%20manager%22%20OR%20%22marketing%20manager%22%20OR%20%22HR%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.lek.com/capabilities/performance-improvement/dynamic-performance-management",
+          "https://www.lek.com/industries/business-services/facility-property-management",
+          "https://www.lek.com/industries/financial-services/wealth-management-private-banking",
+          "https://www.lek.com/industries/healthcare-services/physician-provider",
+          "https://www.lek.com/leadership"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "EDF Energy",
@@ -6802,7 +7957,17 @@
       "approach": "Assess company team-portrait requirements; verify an appropriate current workplace or marketing decision-maker before outreach",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22EDF%20Energy%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22head%20of%20people%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22EDF%20Energy%22%20(%22office%20manager%22%20OR%20%22marketing%20manager%22%20OR%20%22HR%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "name": "DigitalBridge",
@@ -6830,7 +7995,19 @@
       "approach": "Assess company team-portrait requirements; verify an appropriate current workplace or marketing decision-maker before outreach",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22DigitalBridge%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22head%20of%20people%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22DigitalBridge%22%20(%22office%20manager%22%20OR%20%22marketing%20manager%22%20OR%20%22HR%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.digitalbridge.com/about"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c083",
@@ -6858,7 +8035,17 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Carlyle%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Carlyle%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "blocked_or_unknown_robots",
+        "robots": "blocked_http_403",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": ""
+      }
     },
     {
       "id": "c084",
@@ -6896,7 +8083,26 @@
           "confidence": "Employer-confirmed office-services leadership + matching London professional LinkedIn",
           "status": "Company biography names Administrative Services and Office Director and is based in Europe; professional LinkedIn confirms TowerBrook London employment. Suitable operational research lead, not confirmed headshot buyer."
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.towerbrook.com/our-team/",
+          "https://www.towerbrook.com/team-eiffel-is-broadening-its-horizons-with-a-new-shareholder-the-specialist-professional-services-provider-continues-to-focus-on-domestic-growth-and-explores-expansion-into-international-markets/"
+        ],
+        "rolePages": [
+          "https://www.towerbrook.com/our-team/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c085",
@@ -6924,7 +8130,20 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22StepStone%20Group%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22StepStone%20Group%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.stepstonegroup.com/who-we-are/our-team/",
+          "https://www.stepstonegroup.com/what-we-do/solutions-services/asset-management/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c086",
@@ -6962,7 +8181,19 @@
           "status": "Company London staff biography identifies exact position and office; LinkedIn matches name, London and Thoma Bravo employment. Checked 2 November 2026.",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "not_present",
+        "teamPages": [
+          "https://www.thomabravo.com/team"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c087",
@@ -6990,7 +8221,19 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Helios%20Investment%20Partners%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Helios%20Investment%20Partners%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.heliosinvestment.com/team"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c088",
@@ -7028,7 +8271,25 @@
           "status": "Official London company team page explicitly lists Tracy Collison as Office Manager, with a link to the same professional LinkedIn profile. Checked 2 November 2026.",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "not_present",
+        "teamPages": [
+          "https://cap10partners.com/about-us",
+          "https://cap10partners.com/our-team"
+        ],
+        "rolePages": [
+          "https://cap10partners.com/our-team"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c089",
@@ -7056,7 +8317,17 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Arcadia%20Capital%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Arcadia%20Capital%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c090",
@@ -7084,7 +8355,23 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Levine%20Leichtman%20Capital%20Partners%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Levine%20Leichtman%20Capital%20Partners%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.llcp.com/team/",
+          "https://www.llcp.com/team/andrew-m-schwartz/",
+          "https://www.llcp.com/team/arthur-e-levine/",
+          "https://www.llcp.com/team/david-wolmer/",
+          "https://www.llcp.com/team/lauren-b-leichtman/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c091",
@@ -7112,7 +8399,17 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Puma%20Investments%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Puma%20Investments%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "not_present",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c092",
@@ -7140,7 +8437,20 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Bain%20Capital%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Bain%20Capital%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.baincapital.com/about-us",
+          "https://www.baincapital.com/people"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c093",
@@ -7168,7 +8478,20 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22TPG%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22TPG%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.tpg.com/about-us",
+          "https://www.tpg.com/about-us/who-we-are"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c094",
@@ -7196,7 +8519,17 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22LMR%20Partners%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22LMR%20Partners%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "site_accessible_no_team_found",
+        "robots": "not_present",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c095",
@@ -7224,7 +8557,19 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22TCI%20Fund%20Management%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22TCI%20Fund%20Management%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.tcifund.com/TciFundManagement"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c096",
@@ -7263,7 +8608,23 @@
           "confidence": "Employer marketing lead",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://killik.com/what-we-offer/wealth-management/",
+          "https://killik.com/what-we-offer/investment-management/",
+          "https://killik.com/what-we-offer/investment-management/stockbroking-service/",
+          "https://killik.com/about-us/",
+          "https://killik.com/about-us/what-makes-us-different/"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c097",
@@ -7291,7 +8652,17 @@
       "note": "Research candidate, not a confirmed headshot buyer.",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22EFG%20Harris%20Allday%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22EA%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22EFG%20Harris%20Allday%22%20(%22office%20manager%22%20OR%20%22head%20of%20people%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [],
+      "teamAudit": {
+        "status": "pages_not_accessible",
+        "robots": "loaded",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c098",
@@ -7340,7 +8711,19 @@
           "confidence": "Employer role: operations",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.apiarycapital.com/team"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c099",
@@ -7379,7 +8762,17 @@
           "confidence": "Employer role: London office",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "blocked_or_unknown_robots",
+        "robots": "unavailable_URLError",
+        "teamPages": [],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 0,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": ""
+      }
     },
     {
       "id": "c100",
@@ -7418,7 +8811,23 @@
           "confidence": "Employer role + matching LinkedIn",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.soho-sq.com/our-team"
+        ],
+        "rolePages": [
+          "https://www.soho-sq.com/our-team"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c101",
@@ -7457,7 +8866,23 @@
           "confidence": "Employer-published office manager",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.princetonplc.com/our-team"
+        ],
+        "rolePages": [
+          "https://www.princetonplc.com/our-team"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c102",
@@ -7496,7 +8921,23 @@
           "confidence": "Employer role + matching LinkedIn",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://committedcapital.co.uk/team/"
+        ],
+        "rolePages": [
+          "https://committedcapital.co.uk/team/"
+        ],
+        "roleTerms": [
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c103",
@@ -7545,7 +8986,24 @@
           "confidence": "Employer London operations",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://bd-cap.com/team/"
+        ],
+        "rolePages": [
+          "https://bd-cap.com/team/"
+        ],
+        "roleTerms": [
+          "executive assistant",
+          "office manager"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c104",
@@ -7584,7 +9042,21 @@
           "confidence": "Employer COO",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.peregrineblack.com/discretionary-fund-management",
+          "https://www.peregrineblack.com/wealth-management-service-for-us-connected-clients",
+          "https://www.peregrineblack.com/team"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c105",
@@ -7623,7 +9095,23 @@
           "confidence": "Employer operations support",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.hassium.co.uk/"
+        ],
+        "rolePages": [
+          "https://www.hassium.co.uk/"
+        ],
+        "roleTerms": [
+          "executive assistant"
+        ],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c106",
@@ -7653,7 +9141,33 @@
       "signalSource": "https://uk.linkedin.com/jobs/view/executive-assistant-office-manager-uk-investment-management-at-vespa-capital-4380931987",
       "linkedinRoleSearch": "https://www.google.com/search?q=%22Vespa%20Capital%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22executive%20assistant%22)%20London%20site%3Alinkedin.com%2Fin%2F",
       "officialRoleSearch": "https://www.google.com/search?q=%22Vespa%20Capital%22%20(%22office%20manager%22%20OR%20%22office%20administrator%22%20OR%20%22marketing%20manager%22)%20London",
-      "decisionMakers": []
+      "decisionMakers": [
+        {
+          "name": "Amy Collyer",
+          "title": "Executive Assistant",
+          "evidence": "https://www.vespacapital.com/our-team",
+          "linkedin": "",
+          "status": "Official employer Our Team page lists Amy Collyer as Executive Assistant. The employer's generic linkedin.com link is not an identifiable personal profile; leave LinkedIn blank. Office-management responsibilities not confirmed.",
+          "confidence": "Employer-confirmed EA; office purchasing role unverified",
+          "reviewedAt": "2026-11-02"
+        }
+      ],
+      "teamAudit": {
+        "status": "team_role_terms_found",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.vespacapital.com/our-team"
+        ],
+        "rolePages": [
+          "https://www.vespacapital.com/our-team"
+        ],
+        "roleTerms": [
+          "executive assistant"
+        ],
+        "pagesChecked": 5,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     },
     {
       "id": "c107",
@@ -7694,7 +9208,23 @@
           "confidence": "Employer job title confirmed; London placement unknown",
           "reviewedAt": "2026-11-02"
         }
-      ]
+      ],
+      "teamAudit": {
+        "status": "team_pages_no_role_terms",
+        "robots": "loaded",
+        "teamPages": [
+          "https://www.ambientasgr.com/people/nino-tronchetti-provera",
+          "https://www.ambientasgr.com/people/mauro-roversi",
+          "https://www.ambientasgr.com/people/fabio-ranghino",
+          "https://www.ambientasgr.com/people/michela-disita",
+          "https://www.ambientasgr.com/people/ran-landmann"
+        ],
+        "rolePages": [],
+        "roleTerms": [],
+        "pagesChecked": 6,
+        "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+        "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+      }
     }
   ],
   "sources": [
@@ -7796,7 +9326,7 @@
     }
   ],
   "snapshot": "2026-11-02",
-  "version": "1.6.3",
+  "version": "1.7.0",
   "decisionMakers": [
     {
       "company": "IK Partners",
@@ -8469,6 +9999,36 @@
       "reviewedAt": "2026-11-02",
       "confidence": "Employer-confirmed office-services leadership + matching London professional LinkedIn",
       "status": "Company biography names Administrative Services and Office Director and is based in Europe; professional LinkedIn confirms TowerBrook London employment. Suitable operational research lead, not confirmed headshot buyer."
+    },
+    {
+      "company": "Lindsell Train",
+      "name": "Jolene Cook",
+      "title": "Office Manager",
+      "evidence": "https://www.lindselltrain.com/team/",
+      "linkedin": "",
+      "status": "Current official Team page lists Jolene Cook as Office Manager, joining in 2023. Employer is London-based. No matching individual LinkedIn established in this research.",
+      "confidence": "Employer-confirmed office manager; LinkedIn not established",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "company": "Mossessian Architecture",
+      "name": "Lavone Skinner",
+      "title": "Studio Manager and Marketing Coordinator",
+      "evidence": "https://www.mossessian.com/people/",
+      "linkedin": "",
+      "status": "Official company People page lists Lavone Skinner as Studio Manager and Marketing Coordinator for a London-based architecture practice. Not specifically titled office manager; LinkedIn not matched.",
+      "confidence": "Employer-confirmed studio and marketing role; LinkedIn not established",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "company": "Vespa Capital",
+      "name": "Amy Collyer",
+      "title": "Executive Assistant",
+      "evidence": "https://www.vespacapital.com/our-team",
+      "linkedin": "",
+      "status": "Official employer Our Team page lists Amy Collyer as Executive Assistant. The employer's generic linkedin.com link is not an identifiable personal profile; leave LinkedIn blank. Office-management responsibilities not confirmed.",
+      "confidence": "Employer-confirmed EA; office purchasing role unverified",
+      "reviewedAt": "2026-11-02"
     }
   ],
   "victoriaBuildings": [
@@ -8719,5 +10279,19 @@
       "reason": "Employer bio says Milan office; exclude from London roles",
       "evidence": "https://preservationcapitalpartners.com/our-team/"
     }
-  ]
+  ],
+  "siteAuditSummary": {
+    "checkedAt": "2026-11-02T16:57:50.755563+00:00",
+    "sourceVersion": "1.6.3",
+    "total": 107,
+    "statusCounts": {
+      "team_role_terms_found": 33,
+      "team_pages_no_role_terms": 45,
+      "blocked_or_unknown_robots": 4,
+      "site_accessible_no_team_found": 11,
+      "skipped_no_official_company_site": 10,
+      "pages_not_accessible": 4
+    },
+    "scope": "Team-page link and role-keyword audit only; no individual name or LinkedIn verification by crawler."
+  }
 }
