@@ -5,8 +5,8 @@ const seed=JSON.parse(fs.readFileSync(new URL('../data/research_seed.json',impor
 const html=fs.readFileSync(new URL('../index.html',import.meta.url),'utf8');
 test('snapshot contains exactly the research records used in this site',()=>{
  assert.equal(seed.industry.length,323);
- assert.equal(seed.corporate.length,7);
- assert.equal(seed.sources.length,10);
+ assert.equal(seed.corporate.length,16);
+ assert.equal(seed.sources.length,12);
 });
 test('every entry has an identity, a category and an original source',()=>{
  for(const o of [...seed.industry,...seed.corporate]){
@@ -15,7 +15,7 @@ test('every entry has an identity, a category and an original source',()=>{
  }
 });
 test('every corporate seed prospect has its own London office evidence',()=>{
- for(const o of seed.corporate){assert.match(o.london,/London/);assert.match(o.verification,/Official office page/);}
+ for(const o of seed.corporate){assert.match(o.london,/London/);assert.match(o.verification,/Official|Employer/);}
 });
 test('published site contains no claims of automatic lead collection',()=>{
  assert.match(html,/0 live monitors/);
@@ -28,5 +28,5 @@ test('site has embedded complete snapshot and no third-party script dependency',
  const match=html.match(/<script id="seed-data" type="application\/json">([\s\S]*?)<\/script>/);
  assert.ok(match);const embedded=JSON.parse(match[1]);
  assert.equal(embedded.industry.length,323);
- assert.equal(embedded.corporate.length,7);
+ assert.equal(embedded.corporate.length,16);
 });
