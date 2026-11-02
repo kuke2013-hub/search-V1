@@ -1,0 +1,47 @@
+name: Audit company team pages (public websites)
+on:
+  push:
+    paths:
+      - ".github/workflows/company-team-audit.yml"
+      - "scripts/audit_company_teams.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: company-team-audit
+  cancel-in-progress: false
+
+jobs:
+  public-team-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 28
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate source syntax
+        run: python -m py_compile scripts/audit_company_teams.py
+      - name: Check all corporate company websites
+        run: python scripts/audit_company_teams.py --workers 8
+      - name: Archive evidence audit even if GitHub write fails
+        uses: actions/upload-artifact@v4
+        with:
+          name: company-team-audit
+          path: data/company_team_audit.json
+          retention-days: 30
+      - name: Commit public metadata results for SEARCH-V1
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/company_team_audit.json
+          if git diff --cached --quiet; then
+            echo "No changes to site audit."
+          else
+            git commit -m "Record website team-page audit status for company dataset"
+            git push origin HEAD:main
+          fi
