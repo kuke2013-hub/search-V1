@@ -7573,6 +7573,77 @@
           "reviewedAt": "2026-11-02"
         }
       ]
+    },
+    {
+      "id": "c106",
+      "name": "Vespa Capital",
+      "category": "Corporate watchlist",
+      "sector": "Private equity",
+      "zone": "St James's",
+      "building": "3 St James's Square",
+      "address": "3 St James's Square, London SW1Y 4JU",
+      "source": "https://www.vespacapital.com/contact",
+      "website": "https://www.vespacapital.com/",
+      "phone": "+44 20 3934 4444",
+      "email": "info@vespacapital.com",
+      "district": "West End finance",
+      "financeCluster": true,
+      "london": "Current employer-published St James's London operating office (checked 2 Nov 2026)",
+      "verification": "Current official company office/contact page, checked 2 Nov 2026",
+      "evidenceTier": "Official company office page",
+      "locationStatus": "official_office",
+      "sourceChecked": "2026-11-02",
+      "sourceVintage": "2026",
+      "researchStatus": "Office confirmed; individual headcount, commercial buying intent and office manager assignment not established",
+      "monitor": "London operations roles, new hires, office changes and team-portrait refreshes",
+      "approach": "Confirm London workplace procurement or communications contact before any headshot service introduction",
+      "note": "Company official office confirmed. A public hiring listing describes EA/Office Manager responsibilities; posting current availability not confirmed.",
+      "signalType": "historical_office_manager_recruitment",
+      "signalSource": "https://uk.linkedin.com/jobs/view/executive-assistant-office-manager-uk-investment-management-at-vespa-capital-4380931987",
+      "linkedinRoleSearch": "https://www.google.com/search?q=%22Vespa%20Capital%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22executive%20assistant%22)%20London%20site%3Alinkedin.com%2Fin%2F",
+      "officialRoleSearch": "https://www.google.com/search?q=%22Vespa%20Capital%22%20(%22office%20manager%22%20OR%20%22office%20administrator%22%20OR%20%22marketing%20manager%22)%20London",
+      "decisionMakers": []
+    },
+    {
+      "id": "c107",
+      "name": "Ambienta",
+      "category": "Corporate watchlist",
+      "sector": "Private equity / sustainable investment",
+      "zone": "St James's",
+      "building": "20 King Street",
+      "address": "20 King Street, St James's, London SW1Y 6QY",
+      "source": "https://www.ambientasgr.com/contacts",
+      "website": "https://www.ambientasgr.com/",
+      "phone": "+44 20 3167 6430",
+      "email": "info@ambientasgr.com",
+      "district": "West End finance",
+      "financeCluster": true,
+      "london": "Current employer-published St James's London operating office (checked 2 Nov 2026)",
+      "verification": "Current official company office/contact page, checked 2 Nov 2026",
+      "evidenceTier": "Official company office page",
+      "locationStatus": "official_office",
+      "sourceChecked": "2026-11-02",
+      "sourceVintage": "2026",
+      "researchStatus": "Office confirmed; individual headcount, commercial buying intent and office manager assignment not established",
+      "monitor": "London operations roles, new hires, office changes and team-portrait refreshes",
+      "approach": "Confirm London workplace procurement or communications contact before any headshot service introduction",
+      "note": "Employer publishes St James's office and a global team member titled Office Manager; precise London staffing assignment unconfirmed.",
+      "signalType": "company_office",
+      "signalSource": "",
+      "linkedinRoleSearch": "https://www.google.com/search?q=%22Ambienta%22%20(%22office%20manager%22%20OR%20%22workplace%20manager%22%20OR%20%22executive%20assistant%22)%20London%20site%3Alinkedin.com%2Fin%2F",
+      "officialRoleSearch": "https://www.google.com/search?q=%22Ambienta%22%20(%22office%20manager%22%20OR%20%22office%20administrator%22%20OR%20%22marketing%20manager%22)%20London",
+      "decisionMakers": [
+        {
+          "name": "Mia Clapperton",
+          "title": "Office Manager (location of individual not confirmed)",
+          "linkedin": "",
+          "email": "",
+          "evidence": "https://ambientasgr.com/team/mia-clapperton/",
+          "status": "Employer's official biography names Office Manager. Ambienta lists a London St James's office, but this biography does not independently confirm that Mia is based at the London office; do not call her the London office manager until verified.",
+          "confidence": "Employer job title confirmed; London placement unknown",
+          "reviewedAt": "2026-11-02"
+        }
+      ]
     }
   ],
   "sources": [
@@ -7674,7 +7745,7 @@
     }
   ],
   "snapshot": "2026-11-02",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "decisionMakers": [
     {
       "company": "IK Partners",
@@ -8284,6 +8355,17 @@
       "email": "",
       "status": "Employer states responsible for facilities, office administration, marketing and events in London.",
       "confidence": "Employer London office manager",
+      "reviewedAt": "2026-11-02"
+    },
+    {
+      "company": "Ambienta",
+      "name": "Mia Clapperton",
+      "title": "Office Manager (location of individual not confirmed)",
+      "linkedin": "",
+      "email": "",
+      "evidence": "https://ambientasgr.com/team/mia-clapperton/",
+      "status": "Employer's official biography names Office Manager. Ambienta lists a London St James's office, but this biography does not independently confirm that Mia is based at the London office; do not call her the London office manager until verified.",
+      "confidence": "Employer job title confirmed; London placement unknown",
       "reviewedAt": "2026-11-02"
     }
   ],
