@@ -57,3 +57,23 @@ Read: [Product specification](docs/PRODUCT_SPEC.md) · [Source and privacy polic
 - [Greenhouse Job Board API](https://docs.greenhouse.io/job-board)
 - [Lever Postings API](https://github.com/lever/postings-api)
 - [ICO B2B direct-marketing guidance](https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/business-to-business-marketing)
+
+## Corporate decision-maker discovery (November 2026)
+
+The corporate research watchlist now has **16 organisations** and **six employer-supported professional roles** displayed with source links. Public LinkedIn profiles appear where verified. These are research contacts, not confirmed photography buyers.
+
+Two free research scripts were added:
+
+- `scripts/import_companies_house.py` filters official Companies House monthly CSV/ZIP files by active status, London-area registered-office postcodes and relevant SIC industries.
+- `scripts/build_people_queries.py` creates targeted public-search links for office/workplace, People/HR, marketing/comms and executive operations professionals without scraping LinkedIn/X or inventing profiles.
+
+Download all seven ZIP files from https://download.companieshouse.gov.uk/ and run:
+
+```bash
+python3 scripts/import_companies_house.py /path/to/BasicCompanyData-2026-11-01-part*.zip -o local/london_company_candidates.csv
+python3 scripts/build_people_queries.py local/london_company_candidates.csv -o local/people_research.csv --limit 2000
+```
+
+**The bulk data has not yet been downloaded or imported.** The data cannot confirm 11+ employees, a physical London office or photography buying intent. See [Corporate research guide](docs/CORPORATE_DISCOVERY.md).
+
+The website is a source-linked static research snapshot; monitoring and outreach remain inactive.
