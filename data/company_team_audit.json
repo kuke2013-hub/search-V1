@@ -1,0 +1,4651 @@
+{
+  "created_utc": "2026-11-02T16:57:50.755563+00:00",
+  "source_seed_version": "1.6.3",
+  "total_companies": 107,
+  "status_counts": {
+    "team_role_terms_found": 33,
+    "team_pages_no_role_terms": 45,
+    "blocked_or_unknown_robots": 4,
+    "site_accessible_no_team_found": 11,
+    "skipped_no_official_company_site": 10,
+    "pages_not_accessible": 4
+  },
+  "records": [
+    {
+      "company": "Permira",
+      "website": "https://www.permira.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.permira.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.permira.com/people",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.permira.com/people/meet-our-people",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.permira.com/people/culture-and-values",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.permira.com/people/life-at-permira",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.permira.com/investing/credit/clo-management",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.permira.com/people",
+        "https://www.permira.com/people/meet-our-people",
+        "https://www.permira.com/people/culture-and-values",
+        "https://www.permira.com/people/life-at-permira",
+        "https://www.permira.com/investing/credit/clo-management"
+      ],
+      "role_pages": [
+        "https://www.permira.com/people/meet-our-people"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Hg",
+      "website": "https://hgcapital.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://hgcapital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://hgcapital.com/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://hgcapital.com/insights/hg-silicon-valley-leadership-summit-2026-navigating-the-ai-transformation",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://hgcapital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://hgcapital.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://hgcapital.com/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://hgcapital.com/team",
+        "https://hgcapital.com/insights/hg-silicon-valley-leadership-summit-2026-navigating-the-ai-transformation"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Bridgepoint Group",
+      "website": "https://www.bridgepointgroup.com",
+      "status": "blocked_or_unknown_robots",
+      "robots": "blocked_http_403",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": ""
+    },
+    {
+      "company": "Apax Partners",
+      "website": "https://www.apax.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.apax.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.apax.com/people/life-at-apax/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.apax.com/people/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.apax.com/people/life-at-apax/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.apax.com/people/culture-values/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.apax.com/people/inclusion-and-diversity/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.apax.com/people/life-at-apax/",
+        "https://www.apax.com/people/our-team/",
+        "https://www.apax.com/people/culture-values/",
+        "https://www.apax.com/people/inclusion-and-diversity/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Cinven",
+      "website": "https://www.cinven.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.cinven.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.cinven.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.cinven.com/news-insights/living-in-the-matrix-hitting-the-bullseye-with-archer-through-cross-team-collaboration/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.cinven.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.cinven.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.cinven.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.cinven.com/team/",
+        "https://www.cinven.com/news-insights/living-in-the-matrix-hitting-the-bullseye-with-archer-through-cross-team-collaboration/"
+      ],
+      "role_pages": [
+        "https://www.cinven.com/team/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "ICG",
+      "website": "https://www.icgam.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.icgam.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.icgam.com/people-and-careers/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.icgam.com/who-we-are/leadership-governance/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.icgam.com/who-we-are/leadership-governance/policies-disclosures/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.icgam.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.icgam.com/team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.icgam.com/people-and-careers/",
+        "https://www.icgam.com/who-we-are/leadership-governance/",
+        "https://www.icgam.com/who-we-are/leadership-governance/policies-disclosures/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "CVC",
+      "website": "https://www.cvc.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.cvc.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.cvc.com/about/our-people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.cvc.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.cvc.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.cvc.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.cvc.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.cvc.com/about/our-people/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "IK Partners",
+      "website": "https://ikpartners.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://ikpartners.com",
+          "outcome": "TimeoutError"
+        },
+        {
+          "url": "https://ikpartners.com/our-team",
+          "outcome": "TimeoutError"
+        },
+        {
+          "url": "https://ikpartners.com/team",
+          "outcome": "TimeoutError"
+        },
+        {
+          "url": "https://ikpartners.com/our-people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://ikpartners.com/our-people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://ikpartners.com/our-people/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Inflexion",
+      "website": "https://www.inflexion.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.inflexion.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.inflexion.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.inflexion.com/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.inflexion.com/about-us/about-us-faqs/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.inflexion.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.inflexion.com/team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.inflexion.com/about-us/",
+        "https://www.inflexion.com/people/",
+        "https://www.inflexion.com/about-us/about-us-faqs/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Troy Asset Management",
+      "website": "https://www.taml.co.uk",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.taml.co.uk",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.taml.co.uk/about-us/our-story/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.taml.co.uk/about-us/how-we-invest/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.taml.co.uk/about-us/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office assistant",
+            "office coordinator"
+          ]
+        },
+        {
+          "url": "https://www.taml.co.uk/about-us/philanthropy-and-community/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.taml.co.uk/our-team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.taml.co.uk",
+        "https://www.taml.co.uk/about-us/our-story/",
+        "https://www.taml.co.uk/about-us/how-we-invest/",
+        "https://www.taml.co.uk/about-us/our-team/",
+        "https://www.taml.co.uk/about-us/philanthropy-and-community/"
+      ],
+      "role_pages": [
+        "https://www.taml.co.uk/about-us/our-team/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office assistant",
+        "office coordinator"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Balyasny Asset Management",
+      "website": "https://www.bamfunds.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.bamfunds.com",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bamfunds.com/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bamfunds.com/about-us",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bamfunds.com/about-us/locations",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bamfunds.com/about-us/leadership",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bamfunds.com/our-team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.bamfunds.com",
+        "https://www.bamfunds.com/",
+        "https://www.bamfunds.com/about-us",
+        "https://www.bamfunds.com/about-us/locations",
+        "https://www.bamfunds.com/about-us/leadership"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Ballymore",
+      "website": "https://www.ballymoregroup.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.ballymoregroup.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ballymoregroup.com/who-we-are",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ballymoregroup.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.ballymoregroup.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.ballymoregroup.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.ballymoregroup.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.ballymoregroup.com/who-we-are"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Landsec",
+      "website": "https://www.landsec.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.landsec.com/en",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.landsec.com/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.landsec.com/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.landsec.com/people",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.landsec.com/our-people",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.landsec.com/our-team",
+        "https://www.landsec.com/team",
+        "https://www.landsec.com/people",
+        "https://www.landsec.com/our-people"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Brookfield",
+      "website": "https://www.brookfield.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.brookfield.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.brookfield.com/about-us/who-we-are",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.brookfield.com/about-us/global-presence",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.brookfield.com/about-us/ecosystem",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.brookfield.com/about-us/leadership",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.brookfield.com/about-us/sustainability",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.brookfield.com/about-us/who-we-are",
+        "https://www.brookfield.com/about-us/global-presence",
+        "https://www.brookfield.com/about-us/ecosystem",
+        "https://www.brookfield.com/about-us/leadership",
+        "https://www.brookfield.com/about-us/sustainability"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "TDC PR",
+      "website": "https://www.tdcpr.com",
+      "status": "site_accessible_no_team_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.tdcpr.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.tdcpr.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.tdcpr.com/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.tdcpr.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.tdcpr.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Novellus Finance",
+      "website": "https://novellusfinance.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://novellusfinance.com/uk/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://novellusfinance.com/uk/meet-the-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://novellusfinance.com/uk/meet-the-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://novellusfinance.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://novellusfinance.com/uk/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://novellusfinance.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://novellusfinance.com/uk/meet-the-team/"
+      ],
+      "role_pages": [
+        "https://novellusfinance.com/uk/meet-the-team/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "BlackFin",
+      "website": "https://blackfin.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://blackfin.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://blackfin.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://blackfin.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "http://blackfin.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "http://blackfin.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://blackfin.com/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://blackfin.com/about-us/",
+        "https://blackfin.com/team/",
+        "http://blackfin.com/about-us/",
+        "http://blackfin.com/team/"
+      ],
+      "role_pages": [
+        "https://blackfin.com/team/",
+        "http://blackfin.com/team/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "MML Capital",
+      "website": "https://mmlcapital.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://mmlcapital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://mmlcapital.com/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://mmlcapital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://mmlcapital.com/team",
+          "outcome": "ValueError"
+        },
+        {
+          "url": "https://mmlcapital.com/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://mmlcapital.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://mmlcapital.com/people/"
+      ],
+      "role_pages": [
+        "https://mmlcapital.com/people/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "ECI Partners",
+      "website": "https://www.ecipartners.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.ecipartners.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ecipartners.com/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.ecipartners.com/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.ecipartners.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.ecipartners.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.ecipartners.com/our-team"
+      ],
+      "role_pages": [
+        "https://www.ecipartners.com/our-team"
+      ],
+      "role_terms": [
+        "office assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Pelican Capital",
+      "website": "https://www.pelicancapital.com",
+      "status": "team_role_terms_found",
+      "robots": "not_present",
+      "pages_checked": [
+        {
+          "url": "https://www.pelicancapital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.pelicancapital.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.pelicancapital.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "http://www.pelicancapital.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.pelicancapital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.pelicancapital.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        }
+      ],
+      "team_pages": [
+        "https://www.pelicancapital.com/about-us/",
+        "https://www.pelicancapital.com/team/",
+        "http://www.pelicancapital.com/about-us/"
+      ],
+      "role_pages": [
+        "https://www.pelicancapital.com/team/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Trinity Street Asset Management",
+      "website": "https://www.trinitystreetam.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.trinitystreetam.com",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.trinitystreetam.com/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.trinitystreetam.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.trinitystreetam.com/people",
+          "outcome": "http_500"
+        },
+        {
+          "url": "https://www.trinitystreetam.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.trinitystreetam.com",
+        "https://www.trinitystreetam.com/team"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Vantage Infrastructure",
+      "website": "https://www.vantageinfra.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.vantageinfra.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.vantageinfra.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.vantageinfra.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.vantageinfra.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.vantageinfra.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.vantageinfra.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.vantageinfra.com/about-us/",
+        "https://www.vantageinfra.com/team/"
+      ],
+      "role_pages": [
+        "https://www.vantageinfra.com/team/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Keyhaven Capital",
+      "website": "https://www.keyhavencapital.com",
+      "status": "team_role_terms_found",
+      "robots": "not_present",
+      "pages_checked": [
+        {
+          "url": "https://www.keyhavencapital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.keyhavencapital.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.keyhavencapital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.keyhavencapital.com/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.keyhavencapital.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.keyhavencapital.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.keyhavencapital.com/team/",
+        "https://www.keyhavencapital.com/team"
+      ],
+      "role_pages": [
+        "https://www.keyhavencapital.com/team/",
+        "https://www.keyhavencapital.com/team"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Dalmore Capital",
+      "website": "https://www.dalmorecapital.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.dalmorecapital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.dalmorecapital.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.dalmorecapital.com/about-us/investment-strategy/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.dalmorecapital.com/our-people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.dalmorecapital.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.dalmorecapital.com/our-team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.dalmorecapital.com/about-us/",
+        "https://www.dalmorecapital.com/about-us/investment-strategy/",
+        "https://www.dalmorecapital.com/our-people/"
+      ],
+      "role_pages": [
+        "https://www.dalmorecapital.com/our-people/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Optum Ventures",
+      "website": "https://www.optumventures.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.optumventures.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.optumventures.com/about",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.optumventures.com/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.optumventures.com/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.optumventures.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.optumventures.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.optumventures.com/our-team"
+      ],
+      "role_pages": [
+        "https://www.optumventures.com/our-team"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "W.RE Property Experts",
+      "website": "https://wre.london",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://wre.london",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://wre.london/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://wre.london/project/arding-hobbs",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://wre.london/project/st-pancras-campus",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://wre.london/project/argyll-street",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://wre.london/project/the-deck",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://wre.london/team"
+      ],
+      "role_pages": [
+        "https://wre.london/team"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Wilfords",
+      "website": "https://www.wilfords.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.wilfords.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.wilfords.com/about/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.wilfords.com/about/testimonials/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.wilfords.com/about/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.wilfords.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.wilfords.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.wilfords.com/about/our-team/"
+      ],
+      "role_pages": [
+        "https://www.wilfords.com/about/our-team/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "KSR Architects",
+      "website": "https://ksrarchitects.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://ksrarchitects.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://ksrarchitects.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://ksrarchitects.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://ksrarchitects.com/join-our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://ksrarchitects.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://ksrarchitects.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        }
+      ],
+      "team_pages": [
+        "https://ksrarchitects.com/about-us/",
+        "https://ksrarchitects.com/our-team/",
+        "https://ksrarchitects.com/join-our-team/"
+      ],
+      "role_pages": [
+        "https://ksrarchitects.com/our-team/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "MSMR Architects",
+      "website": "https://www.msmrarchitects.co.uk",
+      "status": "site_accessible_no_team_found",
+      "robots": "not_present",
+      "pages_checked": [
+        {
+          "url": "https://www.msmrarchitects.co.uk",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.msmrarchitects.co.uk/news/buccleuch-property-challenge-2026",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.msmrarchitects.co.uk/news/new-associate-at-msmr-2",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.msmrarchitects.co.uk/news/celebrating-25-years",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.msmrarchitects.co.uk/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.msmrarchitects.co.uk/team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Mayfair Office",
+      "website": "https://www.mayfairoffice.co.uk",
+      "status": "blocked_or_unknown_robots",
+      "robots": "blocked_http_403",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": ""
+    },
+    {
+      "company": "Lysander Associates",
+      "website": "https://lysander.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://lysander.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://lysander.com/our-people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://lysander.com/what-we-do/project-management/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://lysander.com/what-we-do/cost-management/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://lysander.com/who-we-work-with/records-management/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://lysander.com/what-we-do/project-management/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://lysander.com/our-people/",
+        "https://lysander.com/what-we-do/project-management/",
+        "https://lysander.com/what-we-do/cost-management/",
+        "https://lysander.com/who-we-work-with/records-management/"
+      ],
+      "role_pages": [
+        "https://lysander.com/our-people/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "LeapFrog Investments",
+      "website": "https://leapfroginvest.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://leapfroginvest.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://leapfroginvest.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://leapfroginvest.com/press-release/leapfrog-companies-reach-622m-people-generate-9b-in-revenue-and-1-5b-in-profit/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://leapfroginvest.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://leapfroginvest.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://leapfroginvest.com/people",
+          "outcome": "http_500"
+        }
+      ],
+      "team_pages": [
+        "https://leapfroginvest.com/our-team/",
+        "https://leapfroginvest.com/press-release/leapfrog-companies-reach-622m-people-generate-9b-in-revenue-and-1-5b-in-profit/"
+      ],
+      "role_pages": [
+        "https://leapfroginvest.com/our-team/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Mosaic Insurance",
+      "website": "https://www.mosaicinsurance.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.mosaicinsurance.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mosaicinsurance.com/culture/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.mosaicinsurance.com/about/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mosaicinsurance.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.mosaicinsurance.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.mosaicinsurance.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.mosaicinsurance.com/culture/people/"
+      ],
+      "role_pages": [
+        "https://www.mosaicinsurance.com/culture/people/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "SDCL",
+      "website": "https://www.sdclgroup.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.sdclgroup.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.sdclgroup.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.sdclgroup.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.sdclgroup.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.sdclgroup.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.sdclgroup.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.sdclgroup.com/about-us/",
+        "https://www.sdclgroup.com/team/"
+      ],
+      "role_pages": [
+        "https://www.sdclgroup.com/team/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Team London Bridge",
+      "website": "https://www.teamlondonbridge.co.uk",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.teamlondonbridge.co.uk",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.teamlondonbridge.co.uk/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.teamlondonbridge.co.uk/about-us/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.teamlondonbridge.co.uk/about-us/governance/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.teamlondonbridge.co.uk/about-us/projects/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.teamlondonbridge.co.uk/our-team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.teamlondonbridge.co.uk",
+        "https://www.teamlondonbridge.co.uk/about-us/",
+        "https://www.teamlondonbridge.co.uk/about-us/people/",
+        "https://www.teamlondonbridge.co.uk/about-us/governance/",
+        "https://www.teamlondonbridge.co.uk/about-us/projects/"
+      ],
+      "role_pages": [
+        "https://www.teamlondonbridge.co.uk/about-us/people/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Mossessian Architecture",
+      "website": "https://www.mossessian.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.mossessian.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mossessian.com/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "studio manager"
+          ]
+        },
+        {
+          "url": "https://www.mossessian.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.mossessian.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.mossessian.com/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "studio manager"
+          ]
+        },
+        {
+          "url": "https://www.mossessian.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.mossessian.com/people/"
+      ],
+      "role_pages": [
+        "https://www.mossessian.com/people/"
+      ],
+      "role_terms": [
+        "studio manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Dwelly",
+      "website": "https://job-boards.eu.greenhouse.io",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "Argus Media",
+      "website": "https://careers.argusmedia.com",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "Valor Real Estate Partners",
+      "website": "https://uk.linkedin.com",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "Ctrl Alt",
+      "website": "https://careers.ctrl-alt.co",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "Seedcamp",
+      "website": "https://talent.seedcamp.com",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "Moonpig",
+      "website": "https://jobs.lever.co",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "Abbatt Group",
+      "website": "https://abbatt.co.uk",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://abbatt.co.uk",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://abbatt.co.uk/dual-management/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://abbatt.co.uk/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://abbatt.co.uk/about-us/work-for-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://abbatt.co.uk/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://abbatt.co.uk/team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://abbatt.co.uk/dual-management/",
+        "https://abbatt.co.uk/about-us/",
+        "https://abbatt.co.uk/about-us/work-for-us/"
+      ],
+      "role_pages": [
+        "https://abbatt.co.uk"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Hippo Digital",
+      "website": "https://www.jobs.service.gov.uk",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "Proficiency Design and Build",
+      "website": "https://www.proficiencyltd.co.uk",
+      "status": "site_accessible_no_team_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.proficiencyltd.co.uk",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.proficiencyltd.co.uk/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.proficiencyltd.co.uk/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.proficiencyltd.co.uk/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.proficiencyltd.co.uk/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Arora Group",
+      "website": "https://uk.linkedin.com",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "Steyn Group",
+      "website": "https://jobs.ashbyhq.com",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "HPS Investment Partners",
+      "website": "https://www.hpspartners.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.hpspartners.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.hpspartners.com/our-story/team-culture",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.hpspartners.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.hpspartners.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.hpspartners.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.hpspartners.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.hpspartners.com/our-story/team-culture"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Jupiter Asset Management",
+      "website": "https://www.jupiteram.com",
+      "status": "pages_not_accessible",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.jupiteram.com",
+          "outcome": "robots_disallowed"
+        },
+        {
+          "url": "https://www.jupiteram.com/our-team",
+          "outcome": "robots_disallowed"
+        },
+        {
+          "url": "https://www.jupiteram.com/team",
+          "outcome": "robots_disallowed"
+        },
+        {
+          "url": "https://www.jupiteram.com/people",
+          "outcome": "robots_disallowed"
+        },
+        {
+          "url": "https://www.jupiteram.com/our-people",
+          "outcome": "robots_disallowed"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "CCLA Investment Management",
+      "website": "https://www.ccla.co.uk",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.ccla.co.uk",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ccla.co.uk/about-us/our-philosophy",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ccla.co.uk/about-us/our-people",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ccla.co.uk/about-us/our-history",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ccla.co.uk/about-us/policies-and-reports",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ccla.co.uk/about-us/policies-and-reports/policies/complaints-policy",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.ccla.co.uk",
+        "https://www.ccla.co.uk/about-us/our-philosophy",
+        "https://www.ccla.co.uk/about-us/our-people",
+        "https://www.ccla.co.uk/about-us/our-history",
+        "https://www.ccla.co.uk/about-us/policies-and-reports",
+        "https://www.ccla.co.uk/about-us/policies-and-reports/policies/complaints-policy"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Ashmore Group",
+      "website": "https://www.ashmoregroup.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.ashmoregroup.com/en-gb",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ashmoregroup.com/en-gb/about-us",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ashmoregroup.com/en-gb/about-us/awards",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ashmoregroup.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.ashmoregroup.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.ashmoregroup.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.ashmoregroup.com/en-gb/about-us",
+        "https://www.ashmoregroup.com/en-gb/about-us/awards"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Mediobanca",
+      "website": "https://www.mediobanca.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.mediobanca.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mediobanca.com/en/mediobanca/about-us.html",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mediobanca.com/en/corporate-governance/leadership-team.html",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mediobanca.com/en/corporate-governance/leadership-team.html",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mediobanca.com/en/corporate-governance/remuneration/management-and-board-pay.html",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mediobanca.com/en/corporate-governance/internal-control-and-risks/risk-management.html",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.mediobanca.com/en/mediobanca/about-us.html",
+        "https://www.mediobanca.com/en/corporate-governance/leadership-team.html",
+        "https://www.mediobanca.com/en/corporate-governance/remuneration/management-and-board-pay.html",
+        "https://www.mediobanca.com/en/corporate-governance/internal-control-and-risks/risk-management.html"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Ruffer",
+      "website": "https://www.ruffer.co.uk",
+      "status": "site_accessible_no_team_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.ruffer.co.uk",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ruffer.co.uk/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.ruffer.co.uk/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.ruffer.co.uk/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.ruffer.co.uk/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Ebury Partners",
+      "website": "https://ebury.com",
+      "status": "site_accessible_no_team_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://ebury.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://ebury.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://ebury.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://ebury.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://ebury.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Vitol",
+      "website": "https://www.vitol.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.vitol.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.vitol.com/about/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.vitol.com/our-people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.vitol.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.vitol.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.vitol.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.vitol.com/our-people/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Egon Zehnder",
+      "website": "https://www.egonzehnder.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.egonzehnder.com",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.egonzehnder.com/about-us",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.egonzehnder.com/what-we-do/team-journey",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.egonzehnder.com/what-we-do/breakthrough-leadership-programs",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.egonzehnder.com/what-we-do/breakthrough-leadership-programs/chair-and-board-potential",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.egonzehnder.com/what-we-do/breakthrough-leadership-programs/executive-breakthrough",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.egonzehnder.com",
+        "https://www.egonzehnder.com/about-us",
+        "https://www.egonzehnder.com/what-we-do/team-journey",
+        "https://www.egonzehnder.com/what-we-do/breakthrough-leadership-programs",
+        "https://www.egonzehnder.com/what-we-do/breakthrough-leadership-programs/chair-and-board-potential",
+        "https://www.egonzehnder.com/what-we-do/breakthrough-leadership-programs/executive-breakthrough"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Silverpeak",
+      "website": "https://www.silverpeakib.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.silverpeakib.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.silverpeakib.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.silverpeakib.com/member/olivia-jones/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.silverpeakib.com/member/thatch-aka-sarah-green/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.silverpeakib.com/healthtech-leadership-dinner/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.silverpeakib.com/silverpeak-co-hosts-leadership-dinner-for-data-rich-businesses/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.silverpeakib.com/our-team/",
+        "https://www.silverpeakib.com/healthtech-leadership-dinner/",
+        "https://www.silverpeakib.com/silverpeak-co-hosts-leadership-dinner-for-data-rich-businesses/"
+      ],
+      "role_pages": [
+        "https://www.silverpeakib.com",
+        "https://www.silverpeakib.com/our-team/",
+        "https://www.silverpeakib.com/member/olivia-jones/",
+        "https://www.silverpeakib.com/member/thatch-aka-sarah-green/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Phoenix Equity Partners",
+      "website": "https://phoenix-equity.com",
+      "status": "pages_not_accessible",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://phoenix-equity.com",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://phoenix-equity.com/our-team",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://phoenix-equity.com/team",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://phoenix-equity.com/people",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://phoenix-equity.com/our-people",
+          "outcome": "http_403"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "AlTi Global",
+      "website": "https://alti-global.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://alti-global.com",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://alti-global.com/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://alti-global.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://alti-global.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://alti-global.com/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://alti-global.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://alti-global.com",
+        "https://alti-global.com/people/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "BlueCrest Capital Management",
+      "website": "https://www.bluecrestcapital.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "not_present",
+      "pages_checked": [
+        {
+          "url": "https://www.bluecrestcapital.com",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bluecrestcapital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.bluecrestcapital.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.bluecrestcapital.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.bluecrestcapital.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.bluecrestcapital.com"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Qube Research & Technologies",
+      "website": "https://www.qube-rt.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.qube-rt.com",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.qube-rt.com/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.qube-rt.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.qube-rt.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.qube-rt.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.qube-rt.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.qube-rt.com",
+        "https://www.qube-rt.com/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Capital Economics",
+      "website": "https://www.capitaleconomics.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.capitaleconomics.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.capitaleconomics.com/about",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.capitaleconomics.com/about-us/our-team/paul-dales",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.capitaleconomics.com/about-us/our-team/james-reilly",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.capitaleconomics.com/about-us/our-team/thomas-mathews",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.capitaleconomics.com/about-us/our-team/william-jackson",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.capitaleconomics.com/about",
+        "https://www.capitaleconomics.com/about-us/our-team/paul-dales",
+        "https://www.capitaleconomics.com/about-us/our-team/james-reilly",
+        "https://www.capitaleconomics.com/about-us/our-team/thomas-mathews",
+        "https://www.capitaleconomics.com/about-us/our-team/william-jackson"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Wellington Management",
+      "website": "https://www.wellington.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.wellington.com/en",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.wellington.com/en/capabilities/private-investing/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.wellington.com/en/about-us/learn-more-about-our-firm",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.wellington.com/en/about-us/our-clients",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.wellington.com/en/about-us/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.wellington.com/en/about-us/diversity-equity-and-inclusion",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.wellington.com/en",
+        "https://www.wellington.com/en/capabilities/private-investing/our-team",
+        "https://www.wellington.com/en/about-us/learn-more-about-our-firm",
+        "https://www.wellington.com/en/about-us/our-clients",
+        "https://www.wellington.com/en/about-us/our-team",
+        "https://www.wellington.com/en/about-us/diversity-equity-and-inclusion"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Mirabaud",
+      "website": "https://www.mirabaud.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.mirabaud.com/en/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mirabaud.com/en/mirabaud-group/maison-mirabaud/about-us",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mirabaud.com/en/services/wealth-management/wealth-management-overview",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mirabaud.com/en/services/wealth-management/discretionary-management",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mirabaud.com/en/services/wealth-management/advisory",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.mirabaud.com/en/services/wealth-management/wealth-planning",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.mirabaud.com/en/",
+        "https://www.mirabaud.com/en/mirabaud-group/maison-mirabaud/about-us",
+        "https://www.mirabaud.com/en/services/wealth-management/wealth-management-overview",
+        "https://www.mirabaud.com/en/services/wealth-management/discretionary-management",
+        "https://www.mirabaud.com/en/services/wealth-management/advisory",
+        "https://www.mirabaud.com/en/services/wealth-management/wealth-planning"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "BMT",
+      "website": "https://www.bmt.org",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.bmt.org",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bmt.org/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bmt.org/about-us/our-employee-priorities/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bmt.org/about-us/sustainability/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bmt.org/about-us/our-heritage/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.bmt.org/industries/defence/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.bmt.org/about-us/",
+        "https://www.bmt.org/about-us/our-employee-priorities/",
+        "https://www.bmt.org/about-us/sustainability/",
+        "https://www.bmt.org/about-us/our-heritage/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Peak Rock Capital Europe",
+      "website": "https://peakrockcapital.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "not_present",
+      "pages_checked": [
+        {
+          "url": "https://peakrockcapital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://peakrockcapital.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://peakrockcapital.com/private-equity/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://peakrockcapital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://peakrockcapital.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://peakrockcapital.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://peakrockcapital.com/team/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "British International Investment",
+      "website": "https://www.bii.co.uk",
+      "status": "pages_not_accessible",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.bii.co.uk",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://www.bii.co.uk/our-team",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://www.bii.co.uk/team",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://www.bii.co.uk/people",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://www.bii.co.uk/our-people",
+          "outcome": "http_403"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Sierra",
+      "website": "https://sierra.ai",
+      "status": "site_accessible_no_team_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://sierra.ai",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://sierra.ai/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://sierra.ai/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://sierra.ai/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://sierra.ai/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "The Travel Corporation",
+      "website": "",
+      "status": "skipped_no_official_company_site",
+      "robots": "not_checked",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Missing URL, jobs platform, social profile, or unsuitable domain."
+    },
+    {
+      "company": "Rockpool Investments",
+      "website": "https://rockpoolinvestments.co.uk",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://rockpoolinvestments.co.uk",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://rockpoolinvestments.co.uk/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://rockpoolinvestments.co.uk/get-funding/our-focus/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://rockpoolinvestments.co.uk/about/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://rockpoolinvestments.co.uk/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://rockpoolinvestments.co.uk/team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://rockpoolinvestments.co.uk/our-team/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Oaktree Capital Management",
+      "website": "https://www.oaktreecapital.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.oaktreecapital.com",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.oaktreecapital.com/about/leadership",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.oaktreecapital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.oaktreecapital.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.oaktreecapital.com/about/leadership",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.oaktreecapital.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.oaktreecapital.com",
+        "https://www.oaktreecapital.com/about/leadership"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Redwheel",
+      "website": "https://www.redwheel.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.redwheel.com/uk/en/professional/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.redwheel.com/uk/en/professional/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.redwheel.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.redwheel.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.redwheel.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.redwheel.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.redwheel.com/uk/en/professional/about-us/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "TP ICAP Group",
+      "website": "https://tpicap.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://tpicap.com/tpicap/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://tpicap.com/tpicap/who-we-are",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://tpicap.com/tpicap/leadership",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://tpicap.com/tpicap/esg-reporting-and-performance-management",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://tpicap.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://tpicap.com/team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://tpicap.com/tpicap/leadership",
+        "https://tpicap.com/tpicap/esg-reporting-and-performance-management"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Caledonia Investments",
+      "website": "https://www.caledonia.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.caledonia.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.caledonia.com/about/our-people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.caledonia.com/investors/risk-management/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.caledonia.com/news/caledonia-private-capital-announces-leadership-succession/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.caledonia.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.caledonia.com/team",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.caledonia.com/about/our-people/",
+        "https://www.caledonia.com/investors/risk-management/",
+        "https://www.caledonia.com/news/caledonia-private-capital-announces-leadership-succession/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Lindsell Train",
+      "website": "https://www.lindselltrain.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.lindselltrain.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lindselltrain.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lindselltrain.com/about-us/our-business/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lindselltrain.com/about-us/investment-approach/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lindselltrain.com/about-us/history/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lindselltrain.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        }
+      ],
+      "team_pages": [
+        "https://www.lindselltrain.com/about-us/",
+        "https://www.lindselltrain.com/about-us/our-business/",
+        "https://www.lindselltrain.com/about-us/investment-approach/",
+        "https://www.lindselltrain.com/about-us/history/",
+        "https://www.lindselltrain.com/team/"
+      ],
+      "role_pages": [
+        "https://www.lindselltrain.com/team/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Jarron Investments",
+      "website": "https://www.jarroninvestments.co.uk",
+      "status": "site_accessible_no_team_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.jarroninvestments.co.uk",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.jarroninvestments.co.uk/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.jarroninvestments.co.uk/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.jarroninvestments.co.uk/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.jarroninvestments.co.uk/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "AtkinsRéalis",
+      "website": "https://www.atkinsrealis.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.atkinsrealis.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.atkinsrealis.com/en/about",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.atkinsrealis.com/en/about/our-leadership",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant"
+          ]
+        },
+        {
+          "url": "https://www.atkinsrealis.com/en/engineering-better-future/beyond-engineering/ai-the-future-of-floodplain-and-flood-risk-management",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.atkinsrealis.com/en/engineering-better-future/beyond-engineering/handbook-for-urban-heat-management",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.atkinsrealis.com/en/engineering-better-future/beyond-engineering/on-track-with-automated-people-movers",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.atkinsrealis.com/en/about/our-leadership",
+        "https://www.atkinsrealis.com/en/engineering-better-future/beyond-engineering/ai-the-future-of-floodplain-and-flood-risk-management",
+        "https://www.atkinsrealis.com/en/engineering-better-future/beyond-engineering/handbook-for-urban-heat-management",
+        "https://www.atkinsrealis.com/en/engineering-better-future/beyond-engineering/on-track-with-automated-people-movers"
+      ],
+      "role_pages": [
+        "https://www.atkinsrealis.com/en/about/our-leadership"
+      ],
+      "role_terms": [
+        "executive assistant"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Global Switch",
+      "website": "https://www.globalswitch.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.globalswitch.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.globalswitch.com/about/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.globalswitch.com/leadership-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.globalswitch.com/our-offer/people/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.globalswitch.com/people/",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.globalswitch.com/contact/",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.globalswitch.com/about/",
+        "https://www.globalswitch.com/leadership-team/",
+        "https://www.globalswitch.com/our-offer/people/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Advent International",
+      "website": "https://www.adventinternational.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.adventinternational.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.adventinternational.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.adventinternational.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.adventinternational.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.adventinternational.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.adventinternational.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.adventinternational.com/about-us/",
+        "https://www.adventinternational.com/our-team/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "L.E.K. Consulting",
+      "website": "https://www.lek.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.lek.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lek.com/capabilities/performance-improvement/dynamic-performance-management",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lek.com/industries/business-services/facility-property-management",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lek.com/industries/financial-services/wealth-management-private-banking",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lek.com/industries/healthcare-services/physician-provider",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lek.com/leadership",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.lek.com/capabilities/performance-improvement/dynamic-performance-management",
+        "https://www.lek.com/industries/business-services/facility-property-management",
+        "https://www.lek.com/industries/financial-services/wealth-management-private-banking",
+        "https://www.lek.com/industries/healthcare-services/physician-provider",
+        "https://www.lek.com/leadership"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "EDF Energy",
+      "website": "https://www.edfenergy.com",
+      "status": "site_accessible_no_team_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.edfenergy.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.edfenergy.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.edfenergy.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.edfenergy.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.edfenergy.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "DigitalBridge",
+      "website": "https://www.digitalbridge.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.digitalbridge.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.digitalbridge.com/about",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.digitalbridge.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.digitalbridge.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.digitalbridge.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.digitalbridge.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.digitalbridge.com/about"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Carlyle",
+      "website": "https://www.carlyle.com",
+      "status": "blocked_or_unknown_robots",
+      "robots": "blocked_http_403",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": ""
+    },
+    {
+      "company": "TowerBrook Capital Partners",
+      "website": "https://www.towerbrook.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.towerbrook.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.towerbrook.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.towerbrook.com/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.towerbrook.com/team-eiffel-is-broadening-its-horizons-with-a-new-shareholder-the-specialist-professional-services-provider-continues-to-focus-on-domestic-growth-and-explores-expansion-into-international-markets/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.towerbrook.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.towerbrook.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.towerbrook.com/our-team/",
+        "https://www.towerbrook.com/team-eiffel-is-broadening-its-horizons-with-a-new-shareholder-the-specialist-professional-services-provider-continues-to-focus-on-domestic-growth-and-explores-expansion-into-international-markets/"
+      ],
+      "role_pages": [
+        "https://www.towerbrook.com/our-team/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "StepStone Group",
+      "website": "https://www.stepstonegroup.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.stepstonegroup.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.stepstonegroup.com/who-we-are/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.stepstonegroup.com/what-we-do/solutions-services/asset-management/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.stepstonegroup.com/who-we-are/our-team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.stepstonegroup.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.stepstonegroup.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.stepstonegroup.com/who-we-are/our-team/",
+        "https://www.stepstonegroup.com/what-we-do/solutions-services/asset-management/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Thoma Bravo",
+      "website": "https://www.thomabravo.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "not_present",
+      "pages_checked": [
+        {
+          "url": "https://www.thomabravo.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.thomabravo.com/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.thomabravo.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.thomabravo.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.thomabravo.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.thomabravo.com/team"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Helios Investment Partners",
+      "website": "https://www.heliosinvestment.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.heliosinvestment.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.heliosinvestment.com/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.heliosinvestment.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.heliosinvestment.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.heliosinvestment.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.heliosinvestment.com/team"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Cap10 Partners",
+      "website": "https://cap10partners.com",
+      "status": "team_role_terms_found",
+      "robots": "not_present",
+      "pages_checked": [
+        {
+          "url": "https://cap10partners.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://cap10partners.com/about-us",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://cap10partners.com/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://cap10partners.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://cap10partners.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://cap10partners.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://cap10partners.com/about-us",
+        "https://cap10partners.com/our-team"
+      ],
+      "role_pages": [
+        "https://cap10partners.com/our-team"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Arcadia Capital",
+      "website": "https://www.arcadia-capital.com",
+      "status": "site_accessible_no_team_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.arcadia-capital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.arcadia-capital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.arcadia-capital.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.arcadia-capital.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.arcadia-capital.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Levine Leichtman Capital Partners",
+      "website": "https://www.llcp.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.llcp.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.llcp.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.llcp.com/team/andrew-m-schwartz/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.llcp.com/team/arthur-e-levine/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.llcp.com/team/david-wolmer/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.llcp.com/team/lauren-b-leichtman/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.llcp.com/team/",
+        "https://www.llcp.com/team/andrew-m-schwartz/",
+        "https://www.llcp.com/team/arthur-e-levine/",
+        "https://www.llcp.com/team/david-wolmer/",
+        "https://www.llcp.com/team/lauren-b-leichtman/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Puma Investments",
+      "website": "https://www.pumainvestments.co.uk",
+      "status": "site_accessible_no_team_found",
+      "robots": "not_present",
+      "pages_checked": [
+        {
+          "url": "https://www.pumainvestments.co.uk",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.pumainvestments.co.uk/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.pumainvestments.co.uk/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.pumainvestments.co.uk/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.pumainvestments.co.uk/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Bain Capital",
+      "website": "https://www.baincapital.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.baincapital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.baincapital.com/about-us",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.baincapital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.baincapital.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.baincapital.com/people",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.baincapital.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.baincapital.com/about-us",
+        "https://www.baincapital.com/people"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "TPG",
+      "website": "https://www.tpg.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.tpg.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.tpg.com/about-us",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.tpg.com/about-us/who-we-are",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.tpg.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.tpg.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.tpg.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.tpg.com/about-us",
+        "https://www.tpg.com/about-us/who-we-are"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "LMR Partners",
+      "website": "https://www.lmrpartners.com",
+      "status": "site_accessible_no_team_found",
+      "robots": "not_present",
+      "pages_checked": [
+        {
+          "url": "https://www.lmrpartners.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.lmrpartners.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.lmrpartners.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.lmrpartners.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.lmrpartners.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "TCI Fund Management",
+      "website": "https://www.tcifund.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.tcifund.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.tcifund.com/TciFundManagement",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.tcifund.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.tcifund.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.tcifund.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.tcifund.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.tcifund.com/TciFundManagement"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Killik & Co",
+      "website": "https://killik.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://killik.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://killik.com/what-we-offer/wealth-management/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://killik.com/what-we-offer/investment-management/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://killik.com/what-we-offer/investment-management/stockbroking-service/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://killik.com/about-us/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://killik.com/about-us/what-makes-us-different/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://killik.com/what-we-offer/wealth-management/",
+        "https://killik.com/what-we-offer/investment-management/",
+        "https://killik.com/what-we-offer/investment-management/stockbroking-service/",
+        "https://killik.com/about-us/",
+        "https://killik.com/about-us/what-makes-us-different/"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "EFG Harris Allday",
+      "website": "https://www.efgha.com",
+      "status": "pages_not_accessible",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.efgha.com",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://www.efgha.com/our-team",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://www.efgha.com/team",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://www.efgha.com/people",
+          "outcome": "http_403"
+        },
+        {
+          "url": "https://www.efgha.com/our-people",
+          "outcome": "http_403"
+        }
+      ],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Apiary Capital",
+      "website": "https://www.apiarycapital.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.apiarycapital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.apiarycapital.com/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.apiarycapital.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.apiarycapital.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.apiarycapital.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.apiarycapital.com/team"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Preservation Capital Partners",
+      "website": "https://preservationcapitalpartners.com",
+      "status": "blocked_or_unknown_robots",
+      "robots": "unavailable_URLError",
+      "pages_checked": [],
+      "team_pages": [],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": ""
+    },
+    {
+      "company": "Soho Square Capital",
+      "website": "https://www.soho-sq.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.soho-sq.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.soho-sq.com/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.soho-sq.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.soho-sq.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.soho-sq.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.soho-sq.com/our-team"
+      ],
+      "role_pages": [
+        "https://www.soho-sq.com/our-team"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Princeton Investments",
+      "website": "https://www.princetonplc.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.princetonplc.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.princetonplc.com/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://www.princetonplc.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.princetonplc.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.princetonplc.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.princetonplc.com/our-team"
+      ],
+      "role_pages": [
+        "https://www.princetonplc.com/our-team"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Committed Capital",
+      "website": "https://committedcapital.co.uk",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://committedcapital.co.uk",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://committedcapital.co.uk/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://committedcapital.co.uk/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://committedcapital.co.uk/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://committedcapital.co.uk/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://committedcapital.co.uk/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://committedcapital.co.uk/team/"
+      ],
+      "role_pages": [
+        "https://committedcapital.co.uk/team/"
+      ],
+      "role_terms": [
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "bd-capital",
+      "website": "https://bd-cap.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://bd-cap.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://bd-cap.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://bd-cap.com/team/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant",
+            "office manager"
+          ]
+        },
+        {
+          "url": "https://bd-cap.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://bd-cap.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://bd-cap.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://bd-cap.com/team/"
+      ],
+      "role_pages": [
+        "https://bd-cap.com/team/"
+      ],
+      "role_terms": [
+        "executive assistant",
+        "office manager"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Peregrine & Black",
+      "website": "https://www.peregrineblack.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.peregrineblack.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.peregrineblack.com/discretionary-fund-management",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.peregrineblack.com/wealth-management-service-for-us-connected-clients",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.peregrineblack.com/team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.peregrineblack.com/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.peregrineblack.com/people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.peregrineblack.com/discretionary-fund-management",
+        "https://www.peregrineblack.com/wealth-management-service-for-us-connected-clients",
+        "https://www.peregrineblack.com/team"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Hassium Asset Management",
+      "website": "https://hassium.co.uk",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.hassium.co.uk/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant"
+          ]
+        },
+        {
+          "url": "https://www.hassium.co.uk/",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant"
+          ]
+        },
+        {
+          "url": "https://hassium.co.uk/our-team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://hassium.co.uk/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://hassium.co.uk/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://hassium.co.uk/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.hassium.co.uk/"
+      ],
+      "role_pages": [
+        "https://www.hassium.co.uk/"
+      ],
+      "role_terms": [
+        "executive assistant"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Vespa Capital",
+      "website": "https://www.vespacapital.com",
+      "status": "team_role_terms_found",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.vespacapital.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.vespacapital.com/our-team",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": [
+            "executive assistant"
+          ]
+        },
+        {
+          "url": "https://www.vespacapital.com/team",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.vespacapital.com/people",
+          "outcome": "http_404"
+        },
+        {
+          "url": "https://www.vespacapital.com/our-people",
+          "outcome": "http_404"
+        }
+      ],
+      "team_pages": [
+        "https://www.vespacapital.com/our-team"
+      ],
+      "role_pages": [
+        "https://www.vespacapital.com/our-team"
+      ],
+      "role_terms": [
+        "executive assistant"
+      ],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    },
+    {
+      "company": "Ambienta",
+      "website": "https://www.ambientasgr.com",
+      "status": "team_pages_no_role_terms",
+      "robots": "loaded",
+      "pages_checked": [
+        {
+          "url": "https://www.ambientasgr.com",
+          "outcome": "success",
+          "is_team_candidate": false,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ambientasgr.com/people/nino-tronchetti-provera",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ambientasgr.com/people/mauro-roversi",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ambientasgr.com/people/fabio-ranghino",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ambientasgr.com/people/michela-disita",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        },
+        {
+          "url": "https://www.ambientasgr.com/people/ran-landmann",
+          "outcome": "success",
+          "is_team_candidate": true,
+          "role_terms": []
+        }
+      ],
+      "team_pages": [
+        "https://www.ambientasgr.com/people/nino-tronchetti-provera",
+        "https://www.ambientasgr.com/people/mauro-roversi",
+        "https://www.ambientasgr.com/people/fabio-ranghino",
+        "https://www.ambientasgr.com/people/michela-disita",
+        "https://www.ambientasgr.com/people/ran-landmann"
+      ],
+      "role_pages": [],
+      "role_terms": [],
+      "notes": "Role keywords require human name, current office and employer confirmation; absence is only from the checked pages, not proof no such employee exists."
+    }
+  ],
+  "disclaimer": "Automated website link and keyword audit only. Does NOT identify or verify individual people. No LinkedIn scraping. Failed/blocked means unknown, never 'no managers'."
+}
