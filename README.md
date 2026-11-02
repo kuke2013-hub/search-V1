@@ -1,6 +1,6 @@
 # SEARCH-V1 — Opportunity Intelligence Engine
 
-**Status (1 Nov 2026): searchable static research website in `index.html` with 323 industry entries, 7 official London-office watchlist prospects and 10 source-register entries. No live source monitoring, authenticated backend, inbox access, autonomous outreach or booking integration.**
+**Status (1 Nov 2026): searchable static research website in `index.html` with 323 industry entries, 47 corporate company candidates, 33 employer-published professional contacts, and a source register. No live source monitoring, authenticated backend, inbox access, autonomous outreach or booking integration.**
 
 A private, evidence-first research and lead-qualification engine for actor-headshot and corporate-headshot services. This **public repository contains code, documentation and a publicly viewable research snapshot sourced from public professional listings**. All published data is accessible before authentication; do not commit private customer records, opt-out lists, confidential contacts, credentials or internal CRM notes.
 
@@ -38,7 +38,7 @@ Success is measured by incremental contribution profit, not scraped names, sched
 ## Website and implementation status
 
 - **Website:** [SEARCH-V1 static dashboard](https://kuke2013-hub.github.io/search-V1/) — requires GitHub Pages to be enabled in repository **Settings → Pages → Source: GitHub Actions** before this address serves the site.
-- **Directory:** 323 industry research entries, 7 separately researched corporate London office prospects; rank means research priority, not booking probability.
+- **Directory:** 323 industry research entries, 47 corporate company candidates and 33 employer-supported professional contacts; rank means research priority, not booking probability.
 - **Features:** search, filter, transparent ranking, evidence drawer, event/source views, local-browser shortlist, CSV export, responsive desktop/mobile layout.
 - **Data:** `data/research_seed.json` is the public-snapshot seed; `node tools/import_seed.mjs` prepares D1 SQL **without executing it**.
 - **Tests:** the static website passed local Chromium interaction checks and additional `node --test` data-integrity tests.
@@ -60,7 +60,7 @@ Read: [Product specification](docs/PRODUCT_SPEC.md) · [Source and privacy polic
 
 ## Corporate decision-maker discovery (November 2026)
 
-The corporate research watchlist now has **16 organisations** and **six employer-supported professional roles** displayed with source links. Public LinkedIn profiles appear where verified. These are research contacts, not confirmed photography buyers.
+The corporate research watchlist now has **47 organisations** and **33 employer-supported professional roles**, of which **27 have office, studio or workplace management titles** displayed with source links. Public LinkedIn profiles appear where verified. These are research contacts, not confirmed photography buyers.
 
 Two free research scripts were added:
 
@@ -77,3 +77,7 @@ python3 scripts/build_people_queries.py local/london_company_candidates.csv -o l
 **The bulk data has not yet been downloaded or imported.** The data cannot confirm 11+ employees, a physical London office or photography buying intent. See [Corporate research guide](docs/CORPORATE_DISCOVERY.md).
 
 The website is a source-linked static research snapshot; monitoring and outreach remain inactive.
+
+## Corporate research refresh — 2 November 2026
+
+The public-facing website now lists 33 named employer-published professional roles (27 office/studio/workplace-related), and 47 corporate company candidates. Twelve company candidates were added from job listings: **a vacant office manager role is not an identified current employee**. An organisation's team page is stronger evidence than a third-party people database, but none of the contacts is proven to purchase photography. **No Companies House bulk-file export has been executed or imported**; use the existing manual GitHub Actions export workflow to begin scaling. The website offers an **Office roles only** checkbox under Corporate contacts.
