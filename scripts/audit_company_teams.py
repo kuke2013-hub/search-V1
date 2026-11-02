@@ -16,6 +16,7 @@ import re
 from urllib.parse import urljoin, urlparse, urldefrag
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
+from http.client import InvalidURL
 from urllib.robotparser import RobotFileParser
 
 AGENT = "SEARCH-V1-Company-Research/0.1 (public websites only; contact repo maintainer)"
@@ -162,6 +163,10 @@ def audit(company):
         url = urldefrag(url)[0]
         if url in visited or not same_site(site, url):
             continue
+        if any(x.isspace() for x in url) or any(ord(x) < 32 for x in url):
+            result["pages_checked"].append({"url": "invalid_url", "outcome": "malformed_site_link"})
+            visited.add(url)
+            continue
         visited.add(url)
         if robot and not robot.can_fetch(AGENT, url):
             result["pages_checked"].append({"url": url, "outcome": "robots_disallowed"})
@@ -191,13 +196,15 @@ def audit(company):
             if len(visited) == 1:
                 candidates = []
                 for href, text in parsed_html.links:
+                    if not href or any(x.isspace() for x in href) or any(ord(x) < 32 for x in href):
+                        continue
                     dest = urljoin(final, html.unescape(href))
                     if same_site(site, dest) and NAV.search(urlparse(dest).path + " " + text):
                         if not re.search(r"/(?:privacy|legal|terms|careers|jobs|vacancies)", dest, re.I):
                             candidates.append(dest)
                 # Prioritise employer-linked Team/People URLs before guessed paths.
                 queue.extend(list(dict.fromkeys(candidates))[:5])
-        except (HTTPError, URLError, TimeoutError, OSError, ValueError) as exc:
+        except (HTTPError, URLError, TimeoutError, OSError, ValueError, InvalidURL) as exc:
             result["pages_checked"].append({"url": url, "outcome": short_error(exc)})
     result["role_terms"] = sorted(role_terms)
     result["status"] = (
